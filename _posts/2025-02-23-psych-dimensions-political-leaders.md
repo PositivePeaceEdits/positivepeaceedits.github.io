@@ -7,22 +7,25 @@ tags: [political-science, international-relations, psychology, leadership]
 
 *They're performed for high-responsibility civilian and military roles - why not for heads of state?*
 
-## Overview
-
-Psychological assessments are routinely used in high-responsibility, high-stress civilian and military contexts such as aviation, nuclear safety, and national security to safeguard against harmful decision-making. This analysis explores the feasibility of using publicly available tools to develop psychological assessments of political leaders.
-The motivation is that such assessments can offer valuable insight into the likelihood of violence or harmful governance. However, a gap exists in high-quality information for a few reasons. First, existing assessments are often speculative accounts by political pundits. Second, the people who may be most suitable to offer informed opinions, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so. Third, evaluating vast amounts of data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years.
-
 ## A Starting Point for Assessment
 
-To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-barrier starting point. Briefly, the steps are:
+Psychological assessments are routinely used in high-responsibility, high-stress civilian and military contexts such as aviation, nuclear safety, and national security to safeguard against harmful decision-making. This analysis explores the feasibility of using publicly available tools to develop psychological assessments of political leaders.
+The motivation is that such assessments can offer valuable insight into the likelihood of violence or harmful governance. 
+
+A gap in high quality information exists for a few reasons:
+- Existing assessments are often speculative accounts by political pundits
+- People who may be most suitable to offer informed opinions, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so.
+- Evaluating vast amounts of data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years.
+
+To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-barrier starting point. Limitations and how to address them - such as more transparent methods of text analysis - are discussed in the second to last section.
 
 1. Develop a list of potential psychological characteristics and how to rate them
 2. Come up with a list of historical figures
-3. Use Chat or another LLM to assess available information about each individual *prior to office* 
+3. Use Chat or another LLM to assess available information about each individual prior to office
 
 ### 1. Psychological Characteristics
 
-A list of psychological characteristics was developed based on a literature review of available psychological assessments, including from fields like political psychology (e.g. Margaret Hermann) as well as public CIA analyses of world leaders (e.g. work by Jerrold Post and colleagues.) The final list for this analysis is meant to cast a fairly wide net and includes DSM-5 diagnoses, DSM-5 features, and other factors established to predispose or correlate with destructive or authoritarian leadership.
+A list of psychological characteristics was developed based on a literature review of available psychological assessments, including from fields like political psychology (e.g. Margaret Hermann) as well as public CIA analyses of world leaders (e.g. work by Jerrold Post and colleagues.) The final list for this analysis is meant to cast a fairly wide net and includes DSM-5 diagnose and features, and other factors established to predispose or correlate with destructive leadership.
 
 **List of psychological characteristics:**
 
@@ -108,6 +111,7 @@ The results below were generated using ChatGPT in February 2025.
 <iframe title="Pre-Power Psychological Profiles of Global Leaders: Historical Figures, US Presidents, and Current World Leaders" aria-label="Table" id="datawrapper-chart-6SNwZ" src="https://datawrapper.dwcdn.net/6SNwZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1260" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
+
 The results reveal moderate-high relationship between pre-power psychological traits and later conflict initiation, albeit with limitations.
 
 - **Adolph Hitler, Joseph Stalin, and Idi Amin** all rank at the top and demonstrated pre-power tendencies toward paranoia, dominance, and hostility toward opposition. This translated into highly repressive regimes.
@@ -120,22 +124,22 @@ The results reveal moderate-high relationship between pre-power psychological tr
 
 ## Limitations
 
-### Operational Definitions and Ratings
+#### Operational definitions
 - It's unclear how AI tools define and rate psychological traits. Consistency and stability of ratings among different models is another potential issue.
-- **Conflict definition:** results don't necessarily distinguish between initiating unprovoked conflict vs. what some may view as motivated by defensive/security concerns.
+- Conflict definition: results don't necessarily distinguish between initiating unprovoked conflict vs. what some may view as motivated by defensive/security concerns.
 
-### Availability of Information
+#### Availability of information
 - There is variation in available information. Older records may be limited to journalistic accounts and speeches, while recent information can draw on a wealth of online information and analysis.
 - Available information is limited to observable behavior, including a person's history, their professional activities, and public statements. It is not a clinical diagnosis.
 
-### Analysis
+#### Analysis
 - This approach relied on an LLM for analyzing text and assessment of characteristics. While we know the output - explainability - credibly understanding the "reasoning" behind the ratings - is currently a challenge to unpack.
 
-### Prediction
+#### Prediction
 - If the purpose of a psychological assessment is not just to evaluate, but also to act on the information by screening out potential harm - then false negatives (e.g. Assad) remain problematic.
 - The list of psychological traits is a bucket of items with some empirical basis, but this is something that would need iterative refinement and testing of predictive value.
 
-### Ethical Concerns
+#### Ethical Concerns
 - Psychological assessments may be weaponized to screen out individuals or groups who are viewed unfavorably. This is a grave concern, which is why mechanisms of oversight must be developed if this is to be deployed ethically.
 - The [2017 debate about the Goldwater Rule](https://www.npr.org/2017/05/15/528502969/psychiatrists-divided-over-the-goldwater-rule-in-the-age-of-trump), though limited to psychiatry, exposed divisions about the longstanding practice of discouraging professionals from attempting to diagnose or make statements about the mental fitness of presidential candidates.
 
