@@ -7,15 +7,15 @@ tags: [political-science, international-relations, psychology, leadership]
 
 *They're performed for high-responsibility civilian and military roles - why not for heads of state?*
 
-## A Starting Point for Assessment
+## A starting point for assessment
 
 Psychological assessments are routinely used in high-responsibility, high-stress civilian and military contexts such as aviation, nuclear safety, and national security to safeguard against harmful decision-making. This analysis explores the feasibility of using publicly available tools to develop psychological assessments of political leaders.
 The motivation is that such assessments can offer valuable insight into the likelihood of violence or harmful governance. 
 
 A gap in high quality information exists for a few reasons:
 - Existing assessments are often speculative accounts by political pundits
-- People who may be most suitable to offer informed opinions, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so.
-- Evaluating vast amounts of data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years.
+- People who may be most suitable to offer informed opinions, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so
+- Evaluating vast amounts of data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years
 
 To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-barrier starting point. Limitations and how to address them - such as more transparent methods of text analysis - are discussed in the second to last section.
 
@@ -23,7 +23,7 @@ To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-ba
 2. Come up with a list of historical figures
 3. Use Chat or another LLM to assess available information about each individual prior to office
 
-### 1. Psychological Characteristics
+### 1. Psychological characteristics
 
 A list of psychological characteristics was developed based on a literature review of available psychological assessments, including from fields like political psychology (e.g. Margaret Hermann) as well as public CIA analyses of world leaders (e.g. work by Jerrold Post and colleagues.) The final list for this analysis is meant to cast a fairly wide net and includes DSM-5 diagnose and features, and other factors established to predispose or correlate with destructive leadership.
 
@@ -46,7 +46,7 @@ A list of psychological characteristics was developed based on a literature revi
 
 Each characteristic is rated from 1 to 5. A higher total score indicates higher risk.
 
-### 2. Historical Figures and Modern Leaders
+### 2. Historical figures and modern leaders
 
 The list of 40 global leaders below was chosen to include all US presidents since World War II and select historical and modern leaders. While it has representation from different geographic regions, in its current form, the list is skewed toward the west and toward a more recent time period.
 
@@ -93,7 +93,7 @@ The list of 40 global leaders below was chosen to include all US presidents sinc
 - Xi Jinping
 - Volodymyr Zelenskyy
 
-### 3. AI Tools for Text Analysis
+### 3. AI tools for text analysis
 
 An example prompt can look like the following:
 
@@ -139,13 +139,13 @@ The results reveal moderate-high relationship between pre-power psychological tr
 - If the purpose of a psychological assessment is not just to evaluate, but also to act on the information by screening out potential harm - then false negatives (e.g. Assad) remain problematic.
 - The list of psychological traits is a bucket of items with some empirical basis, but this is something that would need iterative refinement and testing of predictive value.
 
-#### Ethical Concerns
+#### Ethical concerns
 - Psychological assessments may be weaponized to screen out individuals or groups who are viewed unfavorably. This is a grave concern, which is why mechanisms of oversight must be developed if this is to be deployed ethically.
 - The [2017 debate about the Goldwater Rule](https://www.npr.org/2017/05/15/528502969/psychiatrists-divided-over-the-goldwater-rule-in-the-age-of-trump), though limited to psychiatry, exposed divisions about the longstanding practice of discouraging professionals from attempting to diagnose or make statements about the mental fitness of presidential candidates.
 
-## Next Steps
+## Next steps
 
-What to make of these limitations? Many can be overcome with a more systematic approach, including the development and validation of definitions, inclusion of more comprehensive list of world leaders, and adjusting for factors like governance system and time period. Computational social science advancements, including analysis of vast amounts of text, social media, and other online content - can be used for things like sentiment analysis and emotion detection, in order to quantify and assess the relevant characteristics.
+What to make of these limitations? Many can be overcome with a more systematic approach, including the development and validation of definitions, inclusion of more comprehensive list of world leaders, and adjusting for factors like governance system and time period. **Computational social science advancements**, including analysis of vast amounts of text, social media, and other online content - can be used for things like sentiment analysis and emotion detection, in order to [assess](https://direct.mit.edu/coli/article/50/1/237/118498/) relevant characteristics.
 
 Once a more rigorous, validated assessment is developed with reasonably high accuracy - what do we do with this information?
 
