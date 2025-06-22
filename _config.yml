@@ -1,0 +1,12 @@
+title: Positive Peace
+description: Welcome!
+baseurl: ""
+url: "https://positivepeace.github.io"
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
