@@ -1,11 +1,11 @@
 title: Positive Peace
-description: Welcome 3
+description: Welcome 4
 baseurl: ""
 url: ""
 
 # So Simple theme specific settings
-author:
-  name: 
+author: ""
+  name: ""
 
 # Theme - use remote_theme for GitHub Pages
 remote_theme: mmistakes/so-simple-theme
