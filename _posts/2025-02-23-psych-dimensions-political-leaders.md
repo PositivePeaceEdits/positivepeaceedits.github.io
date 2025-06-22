@@ -127,7 +127,7 @@ The results reveal moderate-high relationship between pre-power psychological tr
 ## Limitations
 
 #### Replication
-- LLM generated results are opaque, in that it's unclear how AI tools define and rate psychological traits, even when some instruction is provided. Additionally, LLMs get updated and retraied over time. This affects stability and replication of results. 
+- LLM generated results are opaque, in that it's unclear how AI tools define and rate psychological traits, even when some instruction is provided. Additionally, LLMs get updated and retrained over time. This affects stability and replication of results. 
 - Conflict definition: results may not distinguish between initiating unprovoked conflict vs. what some view as motivated by defensive/security concerns.
 
 #### Availability of information
