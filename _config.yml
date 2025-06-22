@@ -1,17 +1,20 @@
 title: Positive Peace
-description: Welcome 4
-baseurl: ""
-url: ""
+description: Welcome 5
+url: "https://yourusername.github.io"
+baseurl: "" # if not using a subdirectory
 
-# So Simple theme specific settings
-author: ""
-  name: ""
-
-# Theme - use remote_theme for GitHub Pages
+theme: null # Required to override default theme
 remote_theme: mmistakes/so-simple-theme
 
-# Build settings
-markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# So Simple settings
+author:
+  name: 
+  location: 
+  email: 
+
+# social links, nav, etc.
