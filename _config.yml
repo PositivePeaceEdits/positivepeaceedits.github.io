@@ -1,7 +1,7 @@
 title: Positive Peace
 description: Welcome!
 baseurl: ""
-# url: "https://positivepeace.github.io"
+url: ""
 
 # Theme - use remote_theme for GitHub Pages
 remote_theme: mmistakes/so-simple-theme
