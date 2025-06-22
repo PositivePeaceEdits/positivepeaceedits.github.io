@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Welcome 6
+title: ""
 permalink: /
 ---
 
-Welcome!
+""
