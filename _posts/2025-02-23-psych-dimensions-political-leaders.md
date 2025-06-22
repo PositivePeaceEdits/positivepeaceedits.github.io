@@ -23,7 +23,7 @@ To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-ba
 2. Come up with a list of historical figures
 3. Use Chat or another LLM to assess available information about each individual prior to office
 
-### 1. Psychological characteristics
+## Psychological characteristics
 
 A list of psychological characteristics was developed based on a literature review of available psychological assessments, including from fields like political psychology (e.g. Margaret Hermann) as well as public CIA analyses of world leaders (e.g. work by Jerrold Post and colleagues.) The final list for this analysis is meant to cast a fairly wide net and includes DSM-5 diagnose and features, and other factors established to predispose or correlate with destructive leadership.
 
@@ -46,7 +46,7 @@ A list of psychological characteristics was developed based on a literature revi
 
 Each characteristic is rated from 1 to 5. A higher total score indicates higher risk.
 
-### 2. Historical figures and modern leaders
+## Historical figures and modern leaders
 
 The list of 40 global leaders below was chosen to include all US presidents since World War II and select historical and modern leaders. While it has representation from different geographic regions, in its current form, the list is skewed toward the west and toward a more recent time period.
 
@@ -93,7 +93,7 @@ The list of 40 global leaders below was chosen to include all US presidents sinc
 - Xi Jinping
 - Volodymyr Zelenskyy
 
-### 3. AI tools for text analysis
+## AI tools for text analysis
 
 An example prompt can look like the following:
 
