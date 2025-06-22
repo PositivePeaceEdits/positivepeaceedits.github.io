@@ -1,12 +1,13 @@
 title: Positive Peace
 description: Welcome!
 baseurl: ""
-url: "https://positivepeace.github.io"
+# url: "https://positivepeace.github.io"
 
-# Theme
-theme: jekyll-theme-slate
+# Theme - use remote_theme for GitHub Pages
+remote_theme: mmistakes/so-simple-theme
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
