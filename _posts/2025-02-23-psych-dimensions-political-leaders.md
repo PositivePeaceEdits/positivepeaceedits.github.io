@@ -2,10 +2,8 @@
 layout: post
 title: "Psychological assessments as a form of checks and balances"
 date: 2025-02-23
-categories: [political-science, international-relations, psychology, leadership, research]
+tags: [political-science, international-relations, psychology, leadership]
 ---
-
-# Psychological assessments as a form of checks and balances
 
 *They're performed for high-responsibility civilian and military roles - why not for heads of state?*
 
@@ -107,7 +105,8 @@ The results below were generated using ChatGPT in February 2025.
 
 ## Results
 
-https://datawrapper.dwcdn.net/6SNwZ/3/
+<iframe title="Pre-Power Psychological Profiles of Global Leaders: Historical Figures, US Presidents, and Current World Leaders" aria-label="Table" id="datawrapper-chart-6SNwZ" src="https://datawrapper.dwcdn.net/6SNwZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1260" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
 
 The results reveal moderate-high relationship between pre-power psychological traits and later conflict initiation, albeit with limitations.
 
@@ -149,4 +148,4 @@ Once a more rigorous, validated assessment is developed with reasonably high acc
 - One option is to look to existing precedents where psychological evaluations are already used in civilian and military roles. This usually involves some action and enforcement, given the associated risks (e.g. defense and national security, operating critical infrastructure or nuclear... anything.)
 - At the minimum, it can be used as an early warning mechanism.
 
-While this post focuses on the use of public information about candidates, some like Dr. Bandee Lee and colleages [cite risks to democracy](https://www.scientificamerican.com/article/the-shared-psychosis-of-donald-trump-and-his-loyalists/) and call for formal mental health assessments.
+While this post focuses on the use of public information about candidates, some like Dr. Bandy Lee and colleages [cite risks to democracy](https://www.scientificamerican.com/article/the-shared-psychosis-of-donald-trump-and-his-loyalists/) and call for formal mental health assessments.
