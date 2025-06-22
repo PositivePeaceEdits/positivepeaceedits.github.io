@@ -17,13 +17,15 @@ A gap in high quality information exists for a few reasons:
 - People who may be most suitable to offer informed opinions, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so
 - Evaluating vast amounts of data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years
 
-To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-barrier starting point. Limitations and how to address them - such as more transparent methods of text analysis - are discussed in the second to last section.
+To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-barrier starting point. Limitations and how to address them - such as more transparent methods of text analysis - are discussed in the final section.
+
+Briefly, the steps are:
 
 1. Develop a list of potential psychological characteristics and how to rate them
 2. Come up with a list of historical figures
 3. Use Chat or another LLM to assess available information about each individual prior to office
 
-## Psychological characteristics
+### 1. Psychological characteristics
 
 A list of psychological characteristics was developed based on a literature review of available psychological assessments, including from fields like political psychology (e.g. Margaret Hermann) as well as public CIA analyses of world leaders (e.g. work by Jerrold Post and colleagues.) The final list for this analysis is meant to cast a fairly wide net and includes DSM-5 diagnose and features, and other factors established to predispose or correlate with destructive leadership.
 
@@ -46,7 +48,7 @@ A list of psychological characteristics was developed based on a literature revi
 
 Each characteristic is rated from 1 to 5. A higher total score indicates higher risk.
 
-## Historical figures and modern leaders
+### 2. Historical figures and modern leaders
 
 The list of 40 global leaders below was chosen to include all US presidents since World War II and select historical and modern leaders. While it has representation from different geographic regions, in its current form, the list is skewed toward the west and toward a more recent time period.
 
@@ -93,7 +95,7 @@ The list of 40 global leaders below was chosen to include all US presidents sinc
 - Xi Jinping
 - Volodymyr Zelenskyy
 
-## AI tools for text analysis
+### 3. AI tools for text analysis
 
 An example prompt can look like the following:
 
