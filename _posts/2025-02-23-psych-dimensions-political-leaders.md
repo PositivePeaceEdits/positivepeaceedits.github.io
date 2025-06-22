@@ -126,23 +126,21 @@ The results reveal moderate-high relationship between pre-power psychological tr
 
 ## Limitations
 
-#### Operational definitions
-- It's unclear how AI tools define and rate psychological traits. Consistency and stability of ratings among different models is another potential issue.
-- Conflict definition: results don't necessarily distinguish between initiating unprovoked conflict vs. what some may view as motivated by defensive/security concerns.
+#### Replication
+- LLM generated results are opaque, in that it's unclear how AI tools define and rate psychological traits, even when some instruction is provided. Additionally, LLMs get updated and retraied over time. This affects stability and replication of results. 
+- Conflict definition: results may not distinguish between initiating unprovoked conflict vs. what some view as motivated by defensive/security concerns.
 
 #### Availability of information
 - There is variation in available information. Older records may be limited to journalistic accounts and speeches, while recent information can draw on a wealth of online information and analysis.
 - Available information is limited to observable behavior, including a person's history, their professional activities, and public statements. It is not a clinical diagnosis.
-
-#### Analysis
-- This approach relied on an LLM for analyzing text and assessment of characteristics. While we know the output - explainability - credibly understanding the "reasoning" behind the ratings - is currently a challenge to unpack.
 
 #### Prediction
 - If the purpose of a psychological assessment is not just to evaluate, but also to act on the information by screening out potential harm - then false negatives (e.g. Assad) remain problematic.
 - The list of psychological traits is a bucket of items with some empirical basis, but this is something that would need iterative refinement and testing of predictive value.
 
 #### Ethical concerns
-- Psychological assessments may be weaponized to screen out individuals or groups who are viewed unfavorably. This is a grave concern, which is why mechanisms of oversight must be developed if this is to be deployed ethically.
+- Psychological assessments may be weaponized to screen out individuals or groups who are viewed unfavorably. This is a real concern, which is why mechanisms of oversight must be developed if this is to be deployed ethically.
+- Even well-designed and validated models may still result in false positives some proportion of the time.  
 - The [2017 debate about the Goldwater Rule](https://www.npr.org/2017/05/15/528502969/psychiatrists-divided-over-the-goldwater-rule-in-the-age-of-trump), though limited to psychiatry, exposed divisions about the longstanding practice of discouraging professionals from attempting to diagnose or make statements about the mental fitness of presidential candidates.
 
 ## Next steps
