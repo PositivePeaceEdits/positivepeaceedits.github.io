@@ -19,7 +19,7 @@ Existing university resistance has taken the form of faculty letter writing, pub
 
 So what actions may increase the costs of compliance? An incomplete list includes:
   - Coordinated civil disobedience by students and faculty
-    - Bonus for multi-disciplinary, multi-university organization. Political science and economics faculty, who specialize in **coordination problems** and collective action, are uniquely positioned to lead such efforts (especially the tenured faculty who benefit from more protections and flexibility).
+    - Bonus for multi-disciplinary, [multi-university](https://www.insidehighered.com/news/government/politics-elections/2025/04/29/resistance-here) organization. Political science and economics faculty, who specialize in **coordination problems** and collective action, are uniquely positioned to lead such efforts (especially the tenured faculty who benefit from more protections and flexibility).
   - Pressure on alumni and donors
   - Reputational and prestige damage, domestically and abroad
   - Faculty flight and brain drain (hard to reverse once it happens)
