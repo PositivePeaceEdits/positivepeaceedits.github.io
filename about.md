@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Positive Peace"
+title: "About"
 permalink: /about/
 ---
 
