@@ -8,7 +8,7 @@ navigation:
     url: /
   - title: About
     url: /about/
-  - title: Posts
+  - title: Archive
     url: /posts/
 
 theme: null # Required to override default theme
