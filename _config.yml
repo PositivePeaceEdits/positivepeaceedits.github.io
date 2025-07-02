@@ -3,6 +3,14 @@ description: ""
 url: "https://yourusername.github.io"
 baseurl: "" # if not using a subdirectory
 
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Posts
+    url: /posts/
+
 theme: null # Required to override default theme
 remote_theme: mmistakes/so-simple-theme
 
