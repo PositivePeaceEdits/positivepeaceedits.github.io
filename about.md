@@ -1,10 +1,8 @@
 ---
 layout: page
-title: ""
+title: "About Positive Peace"
 permalink: /about/
 ---
-
-# About Positive Peace
 
 The expression "positive peace" was popularized by sociologist and peace theorist Johan Galtung, but others including Martin Luther King Jr and late 19th/early 20th century pacifists like Jane Addams and Alfred Fried used it in their writings before him.
 
