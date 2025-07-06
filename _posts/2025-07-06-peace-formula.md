@@ -2,8 +2,9 @@
 layout: post
 title: "Mini review: The Peace Formula, by Dominic Rohner"
 date: 2025-07-06
-tags: [IR, political-science, peace]
+tags: []
 ---
+
 
 # Overview
 
