@@ -5,7 +5,6 @@ date: 2025-07-06
 tags: []
 ---
 
-
 # Overview
 
 I appreciate this book by economist Dominic Rohner. 
