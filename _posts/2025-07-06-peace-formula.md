@@ -103,7 +103,7 @@ all designed to address people's basic needs and chance at opportunities and to 
 
 # Limitations and gaps
 
-1. The peace formula does a strong, if incomplete (see #4), job of diminishing one-sided and two-sided civil conflict. That goes a long way.
+1. The peace formula does a strong, if incomplete, job of diminishing one-sided and two-sided civil conflict. That goes a long way.
 There's less attention devoted to addressing causes of international conflicts. May be that's OK and outside the scope of the book? 
 
 2. What causes of war are included (or not), and lack of clarity about where in the causal chain they belong: 
