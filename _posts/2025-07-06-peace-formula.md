@@ -5,7 +5,7 @@ date: 2025-07-06
 tags: []
 ---
 
-*The book offers a strong foundation, if at times incomplete, for domestic peace*
+*Engaging, thoroughly researched book that offers a strong foundation, if at times incomplete, for domestic peace*
 
 # Overview
 
