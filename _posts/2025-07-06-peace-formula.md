@@ -6,7 +6,7 @@ tags: []
 ---
 
 *Engaging, thoroughly researched book that offers a strong foundation, if at times incomplete, for domestic peace*
-
+ 
 # Overview
 
 I appreciate this book by economist Dominic Rohner. 
