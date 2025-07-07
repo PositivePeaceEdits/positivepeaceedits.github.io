@@ -12,7 +12,7 @@ First, a broad taxonomy of stages of peace studies. These stages may overlap and
     - Stabilization
     - Transition
     - Relapse prevention
-3. Maintenance & prevention of new conflict (e.g. institutional checks and balances)
+3. Maintenance & prevention of new conflict (e.g. security guarantees, institutional checks and balances)
 4. Sustaining peace & positive peace cultivation
 
 Most modern peace research is heavily concentrated on #1 and #2, and to a lesser extent #3. The more upstream you go, the less attention is generally devoted to it. 
