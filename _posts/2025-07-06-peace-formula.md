@@ -5,6 +5,8 @@ date: 2025-07-06
 tags: []
 ---
 
+*The book proposes a strong foundation, if at times incomplete, for domestic peace*
+
 # Overview
 
 I appreciate this book by economist Dominic Rohner. 
@@ -41,7 +43,7 @@ One [critique](https://api.repository.cam.ac.uk/server/api/core/bitstreams/1f8b4
 
 Why and when do bargaining failures happen? The causes described in this book are:
 1. **Asymmetrical information** (e.g. not understanding an opponent's strength or resolve to fight back) [^1]
-2. **Commitment problems** [^4] - related to trust and changing power dynamics. Include:
+2. **Commitment problems** - related to trust and changing power dynamics. Include:
     - Pre-emptive war (one side fears attack from another, strikes first)
     - Preventive war (another group growing in power and is feared to be a threat in the future, attack now while they're weaker )
     - Fear of retaliation, e.g. after cease fire and disarment. Prolongs civil wars.
@@ -49,7 +51,6 @@ Why and when do bargaining failures happen? The causes described in this book ar
 7. Bargaining over **indivisibilities** (e.g. a geographic region with special significance)
 
 [^1]: Includes dictator's dilemma = authoritarians are less likely to have their finger on the pulse because of repression of its population, and perhaps inner circle discouraged from telling the truth.
-[^4]: See Powell https://gnss.mcgill.ca/pages/powell.pdf
 
 Factors like poverty increase the likelihood of conflict by lowering the opportunity costs of fighting, but are not viewed as causes. 
 
@@ -83,17 +84,15 @@ and public health interventions to address the HIV epidemic in many countries in
 
 ### How well does the peace formula address *causes of war*?
 
-Voice addresses asymmetrical information, but only about what people domestically think. This can diminish the likelihood of internal conflict.
-It can also serve as a check on political bias and diminish commitment problems to some degree. 
-But it does not address information problems relating to the strength or resolve of an unfriendly country. 
-It also does not counter dis/misinformation. Overall, voice seems like a moderate-strong antidote to some causes of war.
+Warranties is a big one and tries to address commitment problems in addition to serving as a foundation for stability. 
+The books talks about a lot of examples of effectiveness of security guarantees, particularly in the immediate post-conflict stages. 
+
+Voice addresses asymmetrical information domestically and can reduce the likelihood of civil conflict. It can also serve as a check on political bias. However, voice does not address information problems relating to the strength or resolve of an unfriendly country. 
+It also doesn't directly address dis/misinformation. Overall though, voice seems like a moderate-strong antidote to some causes of war.
 
 Work diminishes the desire of people to directly join armed conflict, but it does not explicitly address any causes of war presented in the book. 
 
-Warranties is a big one and tries to address commitment problems. 
-The books talks about a lot of examples of effectiveness of security guarantees, at least in the immediate post-conflict stages. 
-
-Indivisibilities are are not satisfyingly addressed, though voice (through power sharing) and warranties may alleviate it to some degree.
+Indivisibilities is the least addressed cause (voice through power-sharing and warranties can alleviate some of the issue). However, it doesn't seem to be as common of a cause of conflict based on the examples in the book.
 
 ### How the peace formula contributes to *sustainable peace*
 
@@ -105,12 +104,11 @@ all designed to address people's basic needs and chance at opportunities and to 
 1. The peace formula does a strong, if incomplete, job of diminishing one-sided and two-sided civil conflict. That goes a long way.
 There's less attention devoted to addressing causes of international conflicts. May be that's OK and outside the scope of the book? 
 
-2. What causes of war are included (or not), and lack of clarity about where in the causal chain they belong: 
-    - Intangible or non-material factors like grievances and negative sentiment developed toward another group, are discussed but don't seem to be viewed as causes of war.
-    - Some causes, like political bias/private intentives are more of a direct cause. On the other hand, asymmetrical information belongs somewhere else. Yes, it's a "cause" in a causal inference/counterfactual framework, but may be it's more precise to classify it as an effect modifier (moderator?) [^2]
+2. Which causes of war are included, and lack of clarity about where in the causal chain they belong: 
+    - Intangible or non-material factors like grievances - are discussed but don't seem to be viewed as causes of war.
+    - Some causes, like political bias/private intentives are more of a direct cause. On the other hand, asymmetrical information seems like it would belong somewhere else. Yes, it's a "cause" in a causal inference/counterfactual framework, but may be it's more precise to classify it as an effect modifier (moderator?) [^2]
 
-3. There's no distinction between defensive wars and wars of aggression. But the causes are different. The decisions to continue them might be distinct. 
-   I wonder if this is related to lack of clear articulation of short- and long-term intangible incentives and their measurement in the discipline. 
+3. There's no distinction made between defensive wars and wars of aggression. But the decisions for how another group responds to conflict, and factors on the defensive side that prolong such conflicts, is only discussed as a commitment problem. The short- and long-term intangible incentives are largely overlooked.
 
 4. I don't know to what extent dis/misinformation is a unique thing historically.
    I also wonder how the modern information environment affects perception of economic conditions, threats, and opportunity costs.
@@ -127,9 +125,7 @@ Overall, the book is excellent and I would recommend to everyone, despite the li
 The material would also be valuable addition to civic education. 
 Many people in democratic systems don't appreciate what makes those systems successful - including voice/representation as a growth and mistake correction mechanism. 
 
-
-[^2]: Example: the covid vaccine is a cause of less severe disease incidence in a population, compared to no vaccine, under the counterfactual framework.
-However, a virus may be viewed as a direct cause, with the vaccine as an [effect modifier.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2235194/) 
+[^2]: Example: the covid vaccine is a cause of less severe disease incidence in a population, compared to no vaccine, under the counterfactual framework. However, a virus may be viewed as a more direct cause, with the vaccine as an [effect modifier.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2235194/) 
 
 
 
