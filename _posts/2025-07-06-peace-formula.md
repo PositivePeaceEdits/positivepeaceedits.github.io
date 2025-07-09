@@ -101,29 +101,27 @@ all designed to address people's basic needs and chance at opportunities and to 
 
 # Limitations and gaps
 
-1. The peace formula does a strong, if incomplete, job of diminishing one-sided and two-sided civil conflict. That goes a long way.
-There's less attention devoted to addressing causes of international conflicts. May be that's OK and outside the scope of the book? 
+1. The peace formula of voice, work, and warranties does a strong, if incomplete, job of diminishing one-sided and two-sided armed civil conflict. That goes a long way. The book also talks about how the formula - especially warranties - can reduce international conflict. Overall though, causes of international conflicts like private incentives of non-domestic actors are less addressed. May be that's OK and outside the scope of the book?
 
-2. Which causes of war are included, and lack of clarity about where in the causal chain they belong: 
+2. There's no distinction made between defensive wars and wars of aggression. But the decisions for how another group responds to conflict, and factors on the defensive side that prolong such conflicts, are mainly discussed as commitment problems. The short- and long-term intangible incentives and other motivators of a group defending itself are overlooked or diminished, especially in asymmetrical conflicts. 
+
+3. Lack of clarity about what makes something a "cause" of conflict, and where in the causal chain something belongs:
+   - Political bias/private intentives are more of a direct cause. On the other hand, asymmetrical information seems like it would belong elsewhere. Yes, it may be viewed as a "cause" in a causal inference/counterfactual framework, but may be it's more precise to classify it as an effect modifier (moderator?) [^2]
     - Intangible or non-material factors like grievances - are discussed but don't seem to be viewed as causes of war.
-    - Some causes, like political bias/private intentives are more of a direct cause. On the other hand, asymmetrical information seems like it would belong somewhere else. Yes, it's a "cause" in a causal inference/counterfactual framework, but may be it's more precise to classify it as an effect modifier (moderator?) [^2]
-
-3. There's no distinction made between defensive wars and wars of aggression. But the decisions for how another group responds to conflict, and factors on the defensive side that prolong such conflicts, is only discussed as a commitment problem. The short- and long-term intangible incentives are largely overlooked.
-
-4. I don't know to what extent dis/misinformation is a unique thing historically.
+5. I don't know to what extent dis/misinformation is a unique thing historically.
    I also wonder how the modern information environment affects perception of economic conditions, threats, and opportunity costs.
-   In the US, [consumer sentiment](https://www.bloomberg.com/news/articles/2024-03-21/consumer-views-of-the-economy-depend-on-who-s-president) has become partially a partisan issue, flipping by party affiliation after the 2024 presidential election.
-   Moreover, some people express a nihilistic attitude and feel that they have nothing to lose. This perception has an impact on opportunity costs on participating in conflict.
+   In the US, [consumer sentiment](https://www.bloomberg.com/news/articles/2024-03-21/consumer-views-of-the-economy-depend-on-who-s-president) has become partially a partisan issue. Moreover, some people express that they have nothing to lose. This perception has an impact on opportunity costs on participating in conflict.
    There was an article in *Political Behavior* by Michael Shepherd about how [people in rural areas blamed Democrats for hospital closures](https://link.springer.com/article/10.1007/s11109-024-10000-8), even though it's actually due to Republican policies that reduce funding for Medicaid and support for safety net hospitals.
    There's nothing in the peace formula that is an explicit antidote against this.
 
-6. The final gaps might be in the IR/conflict literature and applications of rational choice theory - the foundations that the book rests on.
-    - The rationalist view - that actors seek to maximize benefits (utility) for themselves - is a useful analytical framework. But the utility function that defines an actor's benefit of a particular action, like going to war or not, still does a poor job of integrating intangible motivations like grievances and negative sentiment toward another group. Factors like misperceptions, emotions, and cognitive biases that affect how potential benefits and risks are assessed - are still routinely overlooked. The few exceptions are prospect theory/loss aversion, but otherwise insights from psychology are largely not integrated unless recognized through a Nobel Prize.
-    - Unit of analysis: the actors are usually groups, states, elites. All important, but incomplete the more [personalist](https://academic.oup.com/book/57361/chapter-abstract/464652991) a regime is, i.e. the more power is concentrated in one individual leader with unchecked power (political bias described earlier, but the private incentives are of a single individual). In the case of a personalist regime, a utility function should include material and intangible motivations for war, yet the same limitation applies here. We now have so much data in the form of text, speeches, public statements and tools from computational social science to assess thigs like grievances, sentiment toward other groups, may be even pathological narcissism. The value of that information remains to be seen and tested. Yet once methods are established and validated, the cost of such assessment would be minimal. 
+6. The final gaps in explaining conflict and how to address it are related to the rationalist IR/conflict literature and its applications - the foundations that the book rests on. But that might be a subject of another post. 
+    - The rationalist view - that actors seek to maximize benefits (utility) for themselves - is a useful analytical framework. But the utility function that defines an actor's benefit of a particular action, like going to war or not, still does a poor job of integrating intangible motivations like grievances and negative sentiment toward another group.
+    - "Irrational" factors like emotions and cognitive biases that affect how potential benefits and risks are assessed - while not entirely ignored - still don't receive enough attention. The few exceptions are prospect theory/loss aversion, but otherwise insights from psychology are largely not integrated unless recognized through a Nobel Prize.
+    - Unit of analysis: the actors are usually groups, states, elites. All important, but incomplete the more [personalist](https://academic.oup.com/book/57361/chapter-abstract/464652991) a regime is, i.e. the more power is concentrated in one individual leader with private incentives and unchecked power. 
   
 Overall, the book is excellent and I would recommend to everyone, despite the limitations above.
 The material would also be valuable addition to civic education. 
-Many people in democratic systems don't appreciate what makes those systems successful - including voice/representation as a growth and mistake correction mechanism. 
+Many people in democratic systems don't appreciate what makes those systems successful in so many ways - including voice/representation as a growth and mistake correction mechanism. 
 
 [^2]: Example: the covid vaccine is a cause of less severe disease incidence in a population, compared to no vaccine, under the counterfactual framework. However, a virus may be viewed as a more direct cause, with the vaccine as an [effect modifier.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2235194/) 
 
