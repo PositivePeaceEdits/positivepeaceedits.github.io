@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini review: The Peace Formula, by Dominic Rohner"
+title: "Review: The Peace Formula, by Dominic Rohner"
 date: 2025-07-06
 tags: []
 ---
@@ -116,12 +116,12 @@ all designed to address people's basic needs and chance at opportunities and to 
 
 6. The final gaps in explaining conflict and how to address it are related to the rationalist IR/conflict literature and its applications - the foundations that the book rests on. But that might be a subject of another post. 
     - The rationalist view - that actors seek to maximize benefits (utility) for themselves - is a useful analytical framework. But the utility function that defines an actor's benefit of a particular action, like going to war or not, still does a poor job of integrating intangible motivations like grievances and negative sentiment toward another group.
-    - "Irrational" factors like emotions and cognitive biases that affect how potential benefits and risks are assessed - while not entirely ignored - still don't receive enough attention. The few exceptions are prospect theory/loss aversion, but otherwise insights from psychology are largely not integrated unless recognized through a Nobel Prize.
+    - "Irrational" factors like emotions and cognitive biases that affect how potential benefits and risks are assessed - while not entirely ignored - still don't receive enough attention. The few exceptions are prospect theory/loss aversion, but otherwise insights from psychology are not commonly integrated unless recognized through a Nobel Prize.
     - Unit of analysis: the actors are usually groups, states, elites. All important, but incomplete the more [personalist](https://academic.oup.com/book/57361/chapter-abstract/464652991) a regime is, i.e. the more power is concentrated in one individual leader with private incentives and unchecked power. 
   
 Overall, the book is excellent and I would recommend to everyone, despite the limitations above.
 The material would also be valuable addition to civic education. 
-Many people in democratic systems don't appreciate what makes those systems successful in so many ways - including voice/representation as a growth and mistake correction mechanism. 
+Many people in democratic systems don't appreciate what makes those systems successful in many ways - including voice/representation as a growth and mistake correction mechanism. 
 
 [^2]: Example: the covid vaccine is a cause of less severe disease incidence in a population, compared to no vaccine, under the counterfactual framework. However, a virus may be viewed as a more direct cause, with the vaccine as an [effect modifier.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2235194/) 
 
