@@ -17,9 +17,16 @@ First, a broad taxonomy of stages of peace studies. These stages may overlap and
 
 Most modern peace research is heavily concentrated on #1 and #2, and to a lesser extent #3. The more upstream you go, the less attention is generally devoted to it. 
 
-The purpose of this little blog is to spend more time exploring the upstream factors and to articulate conditions for peace and well-being that extend beyond traditional definitions of peace as the absence of prolonged violent conflict between groups.
+The aims of this little blog are to:
+
+- Explore causes of conflict and to devote attention to the upstream contributors
+- Articulate conditions for sustainable peace and well-being that include, but are not limited to, traditional definitions of peace as the absence of prolonged violent conflict among groups
+- Translate valuable insights from social sciences, often hidden behind layers of paywalls and jargon
+- Present multidisciplinary perspectives on conflict and peace
 
 Thanks for dropping by!
+
+*Note: I'm not affiliated with the Institute for Economics and Peace, but they do some cool stuff.*
 
 
 
