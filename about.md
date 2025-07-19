@@ -26,7 +26,6 @@ The aims of this little blog are to:
 
 Thanks for dropping by!
 
-*Note: I'm not affiliated with the Institute for Economics and Peace, but they do some cool stuff.*
 
 
 
