@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-The expression "positive peace" was popularized by sociologist Johan Galtung, though others including Martin Luther King Jr. and late 19th and early 20th century pacifists like Jane Addams and Alfred Fried used it in their writings prior to him. The term describes the presence of conditions that sustain peaceful societies and extends beyond the negative definition (absence of conflict).
+The expression "positive peace" was popularized by sociologist Johan Galtung, though others including Martin Luther King Jr. and late 19th and early 20th century pacifists like Jane Addams and Alfred Fried used it in their writings prior to him. The term describes the presence of conditions that sustain peaceful societies and extends beyond the negative definition of peace as the absence of hostilities.
 
 First, a broad way to classify stages of conflict. Some stages may overlap and are not necessarily  linear in their progression:
 
