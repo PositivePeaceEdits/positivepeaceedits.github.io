@@ -8,7 +8,7 @@ The expression "positive peace" was popularized by sociologist Johan Galtung, th
 
 First, a broad way to classify stages of conflict. Some stages may overlap and are not necessarily  linear in their progression:
 
-0. Before outbreak of violence between groups 
+0. Before outbreak of hostilities
 1. During conflict (usually interstate wars or civil wars, but not always)
 2. After conflict (stabilization, transition)
 3. Maintenance & prevention of new conflict
