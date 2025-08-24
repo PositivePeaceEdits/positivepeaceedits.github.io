@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(Book reactions) Why We Fight: Roots of War and Paths to Peace, by Chris Blattman - how do wicked problems become easy problems?"
-date: 2025-08-20
-tags: []
+title: "(Book reactions) Why We Fight, by Chris Blattman - how do wicked problems become easy problems?"
+date: 2025-08-24
+tags: [IR, public health]
 ---
 
 *Lessons from public health history*
@@ -120,11 +120,11 @@ Sufficient conditions for prevention:
 # Takeaways: research and policy priorities
 
 Almost every condition for war prevention seems insufficiently developed. This means there's need everywhere. However, some priorities stand out:
-* **Baseline conditions:** foundational needs like safety, security, economic well-being are established pre-requisites for other conditions like robust political institutions, as are supporting conditions like state capacity, but policies are often far off.
 * **The most successful, evidence-based *upstream* interventions for peace target our minds, and our relationships with others.** 
 * **Checks and balances are highly effective**, yet are particularly vulnerable to being eroded by those who are more likely to engage in violence. This presents opportunities for **upgrading or designing new generation of institutions and their interactions.**
 * **Coordination problems** (and collective action?) - solving this may be another Nobel-worthy question
 
+Lastly, baseline conditions that touch on foundational needs like safety, security, and economic well-being are established pre-requisites for other conditions like robust political institutions, as are supporting conditions like state capacity.
 
 
 
