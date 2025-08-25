@@ -53,9 +53,9 @@ This doesn't mean it was low effort.
 Instead, it means that there was a clear solution and an implementation playbook: vaccine technology existed, it needed to be scaled, and a massive population-level campaign had to be undertaken in a short time period. 
 Yes, the reality may have been more complicated, but the larger point stands. 
 
-Given that epidemics were a wicked problem that ravaged populations for much of human history, how did we get to the point where they - or at least some of them - transformed into "easy" problems?[^0]
+Given that epidemics were a wicked problem that ravaged populations for much of human history, how did we get to the point where they - or at least some of them - transformed into "easy" problems?[^5]
 
-[^0]: For a small glimpse into coordination problems during COVID-19 and comparison to 1947, see: [https://www.cityandstateny.com/policy/2021/01/why-cant-nyc-vaccinate-like-its-1947/175308/](https://www.cityandstateny.com/policy/2021/01/why-cant-nyc-vaccinate-like-its-1947/175308/)
+[^5]: For a small glimpse into coordination problems during COVID-19 and comparison to 1947, see: [https://www.cityandstateny.com/policy/2021/01/why-cant-nyc-vaccinate-like-its-1947/175308/](https://www.cityandstateny.com/policy/2021/01/why-cant-nyc-vaccinate-like-its-1947/175308/)
 
 First, a very abbreviated history of public health relevant to the New York City case study:[^1]
 * **1796**: Jenner tests a [smallpox vaccine](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/), improving on the practice of variolation practiced for centuries
