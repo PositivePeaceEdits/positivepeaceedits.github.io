@@ -7,9 +7,8 @@ tags: [IR, public health]
 
 *Lessons from public health history*
 
-Chris Blattman's Why We Fight is one of the most informative books I've read in years. 
-I deeply appreciate when a scholar like Blattman - who's done extensive, rigorous work on conflict in different settings and how to address it - 
-also does quality science education for the public. My impression is that this might be even less common among social scientists - who have so much to offer!
+Blattman's Why We Fight is one of the most informative books I've read in years. 
+I deeply appreciate when social scientists engage in high quality science communication for the public. They have so much to offer, and it helps fill a void in an information environment with more trustworthy content.
 
 A brief summary is provided below. I'm not going to go too much into [critiques and limitations](https://www.foreignaffairs.com/reviews/review-essay/2022-04-19/what-war-still-good) - many of which are valid. 
 Instead, this post will cover something that I thought was thought-provoking. 
@@ -21,7 +20,7 @@ So the question I want to explore is how wicked problems transform into easy pro
 # Brief summary of the book 
 
 The book begins by emphasizing that most conflicts are resolved peacefully, and very few actually descend into war. 
-We're less likely to observe successful conflict resolution (or bargaining in IR speak). 
+The argument is that we're less likely to observe successful conflict resolution (or bargaining in IR speak). 
 A similar observation bias exists in many settings, ranging from national security to public health.
 
 With that said, the book's focus is to explain reasons for war and paths to peace. 
@@ -37,9 +36,6 @@ The **five reasons for wars** are presented as:
 Why these categories? Because that's how they've been presented in the literature: 
 1-3 are classic **strategic** explanations (see Fearon 1995). 
 4 and 5 reflect increasing recognition in the field about the role of **psychological** factors. 
-The five reasons are preseted as a taxonomy rather than a unifying framework.
-These explanations may be viewed as causes in a counterfactual framework.
-However, it seems like they may belong at different stages in the causal chain. More on my confusion later. 
 
 The **four paths to peace** are presented as:
 
@@ -63,11 +59,14 @@ First, a very abbreviated history of public health relevant to the New York City
 * **1796**: Jenner tests a [smallpox vaccine](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/), improving on the practice of variolation practiced for centuries
 * **1803**: First global mass vaccination campaign against smallpox begins (gnarly history that involves orphaned children)
 * **1861**: Pasteur publishes on germ theory of disease; development of more vaccines
-* **1866**: [Metropolitan Board of Health](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.56.5.699) comprised of experts is established to oversee more centralized infectious disease control and prevention for New York, Brooklyn, and Westchester County. Broad authority is granted by the state to address fragmented and often corrupt nature of existing apparatus. *"The enactment... was a major turning point in the history of public health not only in New York City, but in the United States as a whole."*
-  - In the subsequent decades, infrastructure is developed for epidemiological surveillance, investigation, control, response, and prevention
-* **Late 1800s-early 1900s**: Epidemiological transition - reduced infant mortality and shifts in leading causes of death towards chronic diseases largely thanks to public health interventions  (e.g. clean water, sanitation, reducing overcrowded housing). Vaccine mandates for children attending public schools.[^2]
+* **1866**: Metropolitan Board of Health comprised of experts is established to oversee more centralized infectious disease control and prevention for New York, Brooklyn, and Westchester County. Broad authority is granted by the state to address fragmented and often corrupt nature of existing apparatus.
+> The enactment of the Metropolitan Health Bill of 1866 was a major turning point in the history of public health not only in New York City, but in the United States as a whole.[^3]
+* 	- In the subsequent decades, infrastructure is developed for epidemiological surveillance, investigation, control, response, and prevention
+* **Late 1800s-early 1900s**: Epidemiological transition[^2] - reduced infant mortality and shifts in leading causes of death towards chronic diseases largely thanks to public health interventions  (e.g. clean water, sanitation, reducing overcrowded housing). Vaccine mandates for children attending public schools.
 
-[^2]: Image source: https://www.nyc.gov/assets/doh/downloads/pdf/vs/2022sum.pdf]
+[^1]: For a less abbreviated history, [here's 700 pages](https://www.russellsage.org/publications/book/history-public-health-new-york-city-1866-1966) by John Duffy.
+[^2]: Image source: https://www.nyc.gov/assets/doh/downloads/pdf/vs/2022sum.pdf
+[^3]: AJPH, 1966: https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.56.5.699
 
 <p align="center">
 <img src="/assets/images/nyc-death-rate-vital-statistics-2022.png" alt="Desc" width="60%">
@@ -75,14 +74,12 @@ First, a very abbreviated history of public health relevant to the New York City
 
 * **1940s** WWII and post-war, US government developed impressive procurement and scaling abilities; trust in government is fairly high
 
-[^1]: For a less abbreviated history, [here's 700 pages](https://www.russellsage.org/publications/book/history-public-health-new-york-city-1866-1966) by John Duffy.
-
 Some lessons from public health on transforming wicked problems into easy problems:
 * **Outbreaks, like [war](https://pages.ucsd.edu/~egartzke/publications/gartzke_io_99.pdf), are hard to predict in advance, but there is often a window of time during which they can be contained**. 
 * **Necessary conditions** included:
 	* **Science and technology**: When the smallpox vaccine was first discovered, the mechanism of action was yet to be fully elucidated. It didn't stop it from being useful. However, understanding the causes, mechanisms, and safety may make it easier to build a strong case and have buy-in, both for public trust and in solving coordination problems.
-	* **Procedures for outbreak detection, investigation, and response**. Public health is full of blueprints ([CDC's epic Field Manual](https://www.cdc.gov/field-epi-manual/php/about/index.html) wasn't published until 1990s, but [APHA's Control of Communicable Diseases](https://www.apha.org/publications/published-books/ccdm) has been produced since 1917. Blattman warns against blueprints as a one-size-fits-all approach, and that's sensible. But in public health they're developed for different circumstances like mode of transmission. For multi-national outbreaks, understanding cultural context is part of the playbook.
-	* **Some degree of authority and independence** by the health department (risk communication, make recommendations, act on those recommendations)
+	* **Procedures for outbreak detection, investigation, and response**. Public health is full of blueprints ([CDC's Field Manual](https://www.cdc.gov/field-epi-manual/php/about/index.html) wasn't published until 1990s, but [APHA's Control of Communicable Diseases](https://www.apha.org/publications/published-books/ccdm) has been produced since 1917). Blattman warns against blueprints as a one-size-fits-all approach, and that's sensible. But in public health they're developed for different circumstances like mode of transmission. For multi-national outbreaks, understanding cultural context is part of the playbook.
+	* **Some degree of authority and independence** by the health department (risk communication, recommendations, leading to implement them)
 	* **Other baseline conditions:** 
 		* **Preventive** element: a degree of existing protection because some people were previously vaccinated. 
 		* **State capacity**
@@ -101,14 +98,14 @@ Below is my best guess based on the book, plus some things I added. Note that it
 (i.e. vaccine is an effect modifer, in that it only has an effect on an outcome like severe disease when there's virus exposure).*
  
 Necessary conditions for prevention:
-* **Science:** The diagram above suggests multiple intervention points to prevent war by addressing the 5 causes - and that's already actionable. However, the book notes that they don't represent a unifying framework: instead, they represent the bargaining model (the closest we have a unifying framework) plus psychological factors that have not been fully integrated. So, there's work to be done on the theoretical front. Also, most of the protective factors (checks and balances, enforcement, interdependence) are notably downstream of motive (which is not always due to security concerns), and the multi-level factors shape it.
-* **Procedures for early detection ->  response**: Needs more development. Although the book critiques some approaches as misguided, it also highlights growing empirical evidence for what works. The reasonably tailored procedures that do exist: who are they aimed at? If there's vague ownership, does it contribute to a coordination problem?
-* Some equivalent of a **global response authority** that can implement the procedures above: Anarchy problem means we don't have that. The UN has peacekeeping and enforcement power, but among its design limitations is veto power by any of the 5 permanent Security Council members. Regional alliances like NATO, African Union / ECOWAS attempt this but aren't there (diagnosis, capacity, response).
+* **Science:** The diagram suggests multiple intervention points to prevent war by addressing the 5 causes - and that's already actionable. However, the book also notes that the 5 causes don't represent a unifying framework. Intstead, the 5 causes represent the bargaining model (the closest we have to a unifying theory) plus psychological factors that have not been fully integrated.[^4]  Also, most of the protective factors (checks and balances, enforcement, interdependence) are downstream of motive, and the multi-level factors shape it. Only some interventions like CBT are upstream (it may have an effect at multiple points). So, it seems like there are opportunities for theoretical development.
+* **Procedures for early detection ->  response**: Needs more development. Although the book critiques some approaches as misguided, it also highlights growing empirical evidence for what works.
+* Some equivalent of a **global response authority** that can is empowered to lead the implementation of above procedures: Anarchy problem means we don't have that. The UN has peacekeeping and enforcement power, but among its design limitations is veto power by any of the 5 permanent Security Council members. Regional alliances like NATO, African Union / ECOWAS attempt this but aren't there (diagnosis, capacity, response).
 *  **Other baseline conditions:**
 	* **Prevention & protective elements:** 
 		* **Checks and balances**: This constraint may be an equivalent of mass vaccination in public health - highly effective, but hinges on trust in and capacity of institutions and successfully solving coordination problems. As recent descent into authoritarianism in Hungary, Turkey, and the US shows, democratic institutions are not robust to hostile takeovers. This is a real issue, especially if these hostile takeovers are by individuals with personal traits like pathological narcissism, high risk tolerance, and dominance - linked to violence and war.
 		* **Interdependence** - the world economy is pretty interconnected, with very few regime exceptions
-		* Among the most effective upstream preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the **barriers to scaling** are for what seem like life-changing programs? 
+		* Among the most effective upstream preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling are for what seem like life-changing programs? 
 		* In the diagram, I also added **social-emotional learning (SEL)** as a possibility. It's not in the book, but since it tackles conflict resolution and emotional regulation early in educational settings, this seems like another potential condition for promoting peace and cooperation. 
 	* **Public trust in institutions** - ?
 	* **Capacity** - ?
@@ -116,15 +113,15 @@ Necessary conditions for prevention:
 Sufficient conditions for prevention:
 * **Solving coordination problems** & timely, decisive action - Epic fail, or also somewhat of an observational bias problem?
 
+[^4]: It's possible that the psychological factors are part of the expected benefits/payoffs of war calculation, at least partly. But the expected benefits are often treated as a given and receive less attention. 
 
 # Takeaways: research and policy priorities
 
 Almost every condition for war prevention seems insufficiently developed. This means there's need everywhere. However, some priorities stand out:
 * **The most successful, evidence-based *upstream* interventions for peace target our minds, and our relationships with others.** 
 * **Checks and balances are highly effective**, yet are particularly vulnerable to being eroded by those who are more likely to engage in violence. This presents opportunities for **upgrading or designing new generation of institutions and their interactions.**
-* **Coordination problems** (and collective action?) - solving this may be another Nobel-worthy question
+* **Coordination problems** (and collective action?) - may be another Nobel-worthy question?
 
-Lastly, baseline conditions that touch on foundational needs like safety, security, and economic well-being are established pre-requisites for other conditions like robust political institutions, as are supporting conditions like state capacity.
 
 
 
