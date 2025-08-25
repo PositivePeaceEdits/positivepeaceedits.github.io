@@ -64,7 +64,8 @@ First, a very abbreviated history of public health relevant to the New York City
 * **1866**: Metropolitan Board of Health comprised of experts is established to oversee more centralized infectious disease control and prevention for New York, Brooklyn, and Westchester County. Broad authority is granted by the state to address fragmented and often corrupt nature of existing apparatus.
   
 > The enactment of the Metropolitan Health Bill of 1866 was a major turning point in the history of public health not only in New York City, but in the United States as a whole.[^3]
-* 	- In the subsequent decades, infrastructure is developed for epidemiological surveillance, investigation, control, response, and prevention
+
+* 	In the subsequent decades, infrastructure is developed for epidemiological surveillance, investigation, control, response, and prevention
 * **Late 1800s-early 1900s**: Epidemiological transition[^2] - reduced infant mortality and shifts in leading causes of death towards chronic diseases largely thanks to public health interventions  (e.g. clean water, sanitation, reducing overcrowded housing, vaccine campaigns and mandates for children attending public schools).
 
 [^1]: For a less abbreviated history, [here's 700 pages](https://www.russellsage.org/publications/book/history-public-health-new-york-city-1866-1966) by John Duffy.
@@ -72,7 +73,7 @@ First, a very abbreviated history of public health relevant to the New York City
 [^3]: AJPH, 1966: https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.56.5.699
 
 <p align="center">
-<img src="/assets/images/nyc-death-rate-vital-statistics-2022.png" alt="Desc" width="70%">
+<img src="/assets/images/nyc-death-rate-vital-statistics-2022.png" alt="Desc" width="75%">
 </p>
 
 * **1940s** WWII and post-war, US government developed impressive procurement and scaling abilities; trust in government is fairly high
@@ -93,7 +94,7 @@ Some lessons from public health on transforming wicked problems into easy proble
 
 # (Attempt) at a causal diagram of war initiation & what it suggests for prevention
 
-One of the things I struggled to understand was where the 5 causes or mechanisms fall in the causal chain.
+One of the things I struggled to understand was where the 5 causes/mechanisms fall in the causal chain.
 Below is my best guess based on the book, plus some things I added. Note that it's simplified and I'm not confident I got everything right (ChatGPT disagrees with me about commitment problems).
 
 ![War-causes-diagram](/assets/images/war-causes-diagram-attempt.png)
@@ -108,7 +109,7 @@ Necessary conditions for prevention:
 	* **Prevention & protective elements:** 
 		* **Checks and balances**: This constraint may be an equivalent of mass vaccination in public health - highly effective, but hinges on robust institutions and political will. As recent descent into authoritarianism in Hungary, Turkey, and the US shows, democratic institutions are vulnerable to hostile takeovers. This is a real issue, especially if these hostile takeovers are by individuals with personal traits like pathological narcissism, high risk tolerance, and dominance - linked to violence and war.
 		* **Interdependence** - the world economy is pretty interconnected, with very few regime exceptions
-		* Among the most effective upstream preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling are for what seem like life-changing programs? 
+		* Among the most effective upstream preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling what seem like life-changing programs? 
 		* **Social-emotional learning (SEL)** is not in the book, but I raised it as a possibility, since it teaches emotional regulation and conflict resolution early in educational settings.
 	* **Public trust in institutions** - ?
 	* **Capacity** - ?
