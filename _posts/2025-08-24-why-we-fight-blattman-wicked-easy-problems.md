@@ -122,7 +122,7 @@ Sufficient conditions for prevention:
 # Takeaways: research and policy priorities
 
 Almost every condition for war prevention seems insufficiently developed. This means there's need everywhere. However, some priorities stand out:
-* **The most successful, evidence-based *upstream* interventions for peace target our minds, and our relationships with others.** 
+* **The most successful, evidence-based *upstream* interventions for peace target our minds, and how we relate to others.** 
 * **Checks and balances are highly effective**, yet are particularly vulnerable to being eroded by those who are more likely to engage in violence. This presents opportunities for **upgrading or designing new generation of institutions and their interactions.**
 * **Coordination problems** (and collective action?) - may be another Nobel-worthy question?
 
