@@ -83,10 +83,10 @@ Some lessons from public health on transforming wicked problems into easy proble
 	* **Science and technology**: When the smallpox vaccine was first discovered, the mechanism of action was yet to be fully elucidated. It didn't stop it from being useful. However, understanding the causes, mechanisms, and safety may make it easier to build a strong case and have buy-in, both for public trust and in solving coordination problems.
 	* **Procedures for outbreak detection, investigation, and response**. Public health is full of blueprints ([CDC's Field Manual](https://www.cdc.gov/field-epi-manual/php/about/index.html) wasn't published until 1990s, but [APHA's Control of Communicable Diseases](https://www.apha.org/publications/published-books/ccdm) has been produced since 1917). Blattman warns against blueprints as a one-size-fits-all approach, and that's sensible. But in public health they're developed for different circumstances like mode of transmission. For multi-national outbreaks, understanding cultural context is part of the playbook.
 	* **Authority and independence** of the health department to lead the response - including implementation of the procedures, even though it lacked the power to *mandate* universal vaccination
-	* **State capacity**
+	* **State capacity:** health department, other city services, and federal government support (including the US Public Health Service and the military for rapid vaccine procurement)
 * **Sufficient conditions:** Several key things made a difference in 1947:
 	1. Decisive action by the commissioner of health to launch a mass vaccination campaign
-	2. Solving coordination problems *in a timely way* - the health department led the coordination of city agencies, health care systems, and the federal government (which supported with rapid procurement of vaccines).
+	2. Solving coordination problems *in a timely way* - the health department led the coordination of city agencies, health care systems, and the federal government
 	3. Strong risk communication strategy plus pre-existing public trust in government succeeded in persuading the public to get vaccinated.
 
 # (Attempt) at a causal diagram of war initiation & what it suggests for prevention
@@ -108,7 +108,6 @@ Necessary conditions for prevention:
 		* **Interdependence** - the world economy is pretty interconnected, with very few regime exceptions
 		* One the most effective preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling what seem like life-changing programs? 
 		* **Social-emotional learning (SEL)** is not in the book, but I raised it as a possibility, since it teaches emotional regulation and conflict resolution early in educational settings.
-	* **Public trust in institutions** - ?
 	* **Capacity** - ?
 
 Sufficient conditions for prevention:
