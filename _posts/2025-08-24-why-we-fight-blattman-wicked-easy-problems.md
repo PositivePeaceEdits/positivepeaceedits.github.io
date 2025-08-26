@@ -84,7 +84,6 @@ Some lessons from public health on transforming wicked problems into easy proble
 	* **Procedures for outbreak detection, investigation, and response**. Public health is full of blueprints ([CDC's Field Manual](https://www.cdc.gov/field-epi-manual/php/about/index.html) wasn't published until 1990s, but [APHA's Control of Communicable Diseases](https://www.apha.org/publications/published-books/ccdm) has been produced since 1917). Blattman warns against blueprints as a one-size-fits-all approach, and that's sensible. But in public health they're developed for different circumstances like mode of transmission. For multi-national outbreaks, understanding cultural context is part of the playbook.
 	* **Authority and independence** of the health department to lead the response — implementing procedures and multi-level coordination, even though it lacked the power to *mandate* universal vaccination.
 	* **Other baseline conditions:** 
-		* **Preventive** element: a degree of existing protection because some people were previously vaccinated. 
 		* **State capacity**
 		* **Public trust in government**: High at baseline, but risk communication plays an important role. 
 * **Sufficient conditions:** Several key things made a difference in 1947:
