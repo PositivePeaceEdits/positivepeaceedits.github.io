@@ -111,7 +111,9 @@ Necessary conditions for prevention:
 	* **Capacity** - ?
 
 Sufficient conditions for prevention:
-* **Solving coordination problems** & timely, decisive action - Epic fail, or also an observational bias problem?
+* Risk communication and information sharing - ?
+* * **Solving coordination problems** & timely, decisive action - Epic fail, or also an observational bias problem?
+
 
 [^4]: It's possible that the psychological factors are part of the expected benefits/payoffs of war calculation. But the expected benefits are often treated as a given and receive less attention. 
 
