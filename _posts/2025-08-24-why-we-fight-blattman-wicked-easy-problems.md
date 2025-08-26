@@ -95,7 +95,7 @@ One of the things I struggled to understand was where the 5 causes/mechanisms fa
 The diagram below is my best guess based on the book, plus some things I added. I'm not confident I got everything right (ChatGPT disagrees with me about commitment problems, and I kind of get it).
 
 ![War-causes-diagram](/assets/images/war-causes-diagram-attempt.png)
-*Methods notes: this is based on an extremely simplified motivation framework from psychology. Not meant to be a directed acyclical graph (DAG)! Arrow-on-arrow illustrates an effect modifier, per Figure 2 of [Weinberg](https://pmc.ncbi.nlm.nih.gov/articles/PMC2235194/)
+*Notes: this is based on an extremely simplified motivation framework from psychology. Not meant to be a directed acyclical graph (DAG)! Arrow-on-arrow illustrates an effect modifier, per Figure 2 of [Weinberg](https://pmc.ncbi.nlm.nih.gov/articles/PMC2235194/)
 (i.e. vaccine is an effect modifer, in that it only has an effect on an outcome like severe disease when there's virus exposure).*
  
 **Necessary conditions for prevention**:
