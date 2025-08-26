@@ -54,7 +54,7 @@ Yes, the reality may have been more complicated, but the larger point stands.
 
 Given that epidemics were a wicked problem that ravaged populations for much of human history, how did we get to the point where they - or at least some of them - transformed into "easy" problems?[^5]
 
-[^5]: For a small glimpse into coordination problems during COVID-19 and comparison to 1947, see: [https://www.cityandstateny.com/policy/2021/01/why-cant-nyc-vaccinate-like-its-1947/175308/](https://www.cityandstateny.com/policy/2021/01/why-cant-nyc-vaccinate-like-its-1947/175308/)
+[^5]: For a small glimpse into coordination problems and shifts in local authority during COVID-19 plus comparison to 1947, see: [https://www.cityandstateny.com/policy/2021/01/why-cant-nyc-vaccinate-like-its-1947/175308/](https://www.cityandstateny.com/policy/2021/01/why-cant-nyc-vaccinate-like-its-1947/175308/)
 
 First, a very abbreviated history of public health relevant to the New York City case study:[^1]
 * **1796**: Jenner tests a [smallpox vaccine](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/), improving on the practice of variolation practiced for centuries
@@ -117,7 +117,7 @@ Necessary conditions for prevention:
 Sufficient conditions for prevention:
 * **Solving coordination problems** & timely, decisive action - Epic fail, or also an observational bias problem?
 
-[^4]: It's possible that the psychological factors are part of the expected benefits/payoffs of war calculation, at least partly. But the expected benefits are often treated as a given and receive less attention. 
+[^4]: It's possible that the psychological factors are part of the expected benefits/payoffs of war calculation. But the expected benefits are often treated as a given and receive less attention. 
 
 # Takeaways: research and policy priorities
 
