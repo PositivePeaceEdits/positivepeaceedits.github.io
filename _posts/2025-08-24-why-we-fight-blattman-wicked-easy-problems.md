@@ -102,14 +102,14 @@ Necessary conditions for prevention:
 * **Science:** The diagram suggests multiple intervention points to prevent war by addressing the 5 mechanisms - and that's already actionable. However, the five causes aren’t a unifying framework: they represent the bargaining model (our closest thing to one) plus psychological factors not yet fully integrated.[^4]  Also, most of the protective factors (checks and balances, enforcement, interdependence) appear to be downstream of motive and the multi-level factors shape it. There are opportunities for theoretical development.
 * **Procedures for early detection ->  response**: Needs more development. Although the book critiques some approaches as misguided, it also highlights growing empirical evidence for what works.
 * **Global response authority** empowered to lead the implementation of above procedures: anarchy problem means we don't have global government. The UN was formed after WWII as a successor to the League of Nations with peacekeeping and enforcement power, but among its limitations is veto power by any of the 5 permanent Security Council members. Will it take another global conflict to improve it? Meanwhile, alliances like NATO, African Union / ECOWAS attempt some of this at a regional level but aren't there (diagnosis, capacity, response).
+* **Capacity** - ?
 
 **Other protective elements:** 
 * **Checks and balances**: This constraint may be an equivalent of mass vaccination in public health - highly effective, but hinges on robust institutions and political will. As recent descent into authoritarianism in Hungary, Turkey, and the US shows, democratic institutions are vulnerable to hostile takeovers. This is a real issue, especially if these hostile takeovers are by individuals with personal traits like narcissism, risk tolerance, and dominance - linked to violence and war.
+* **Interdependence** - the world economy is pretty interconnected, with very few regime exceptions. This makes war costly, but only if the initiators internalize those costs. I'm less familiar with social connectedness measures. However, political polarization has been growing in the US for decades (trends in other parts of the world are mixed).
 * One the most effective upstream preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling what seem like life-changing programs?
 * **Social-emotional learning (SEL)** is not in the book, but I raised it as a possibility in the diagram since it teaches emotional regulation and conflict resolution early in educational settings.
 * **Risk communication and information sharing** - ?
-* **Capacity** - ?
-* **Interdependence** - the world economy is pretty interconnected, with very few regime exceptions, making war costly, but only if the initiators internalize those costs. I'm less familiar with social connectedness measures. However, political polarization has been growing in the US for decades (trends in other parts of the world are mixed).
 
 Sufficient conditions for prevention:
 * **Solving coordination problems and timely, decisive action** - epic fail, or also an observational bias problem?
