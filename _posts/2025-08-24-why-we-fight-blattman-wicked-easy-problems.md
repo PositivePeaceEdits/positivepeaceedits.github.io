@@ -82,15 +82,15 @@ Some lessons from public health on transforming wicked problems into easy proble
 * **Necessary conditions** included:
 	* **Science and technology**: When the smallpox vaccine was first discovered, the mechanism of action was yet to be fully elucidated. It didn't stop it from being useful. However, understanding the causes, mechanisms, and safety may make it easier to build a strong case and have buy-in, both for public trust and in solving coordination problems.
 	* **Procedures for outbreak detection, investigation, and response**. Public health is full of blueprints ([CDC's Field Manual](https://www.cdc.gov/field-epi-manual/php/about/index.html) wasn't published until 1990s, but [APHA's Control of Communicable Diseases](https://www.apha.org/publications/published-books/ccdm) has been produced since 1917). Blattman warns against blueprints as a one-size-fits-all approach, and that's sensible. But in public health they're developed for different circumstances like mode of transmission. For multi-national outbreaks, understanding cultural context is part of the playbook.
-	* **Some degree of authority and independence** by the health department to lead the response, by implementing the procedures and solving coordination problems (it did not *mandate* mass vaccination, but chose  ).
+	* **Authority and independence** of the health department to lead the response — implementing procedures and multi-level coordination, even though it lacked the power to *mandate* universal vaccination.
 	* **Other baseline conditions:** 
 		* **Preventive** element: a degree of existing protection because some people were previously vaccinated. 
 		* **State capacity**
 		* **Public trust in government**: High at baseline, but risk communication plays an important role. 
-* **Sufficient conditions:** Several key things made a difference in 1947: 
+* **Sufficient conditions:** Several key things made a difference in 1947:
 	1. Decisive action by the commissioner of health to launch a mass vaccination campaign
 	2. Solving coordination problems *in a timely way* - the health department led the coordination of government agencies and political institutions at different levels (city agencies, health care systems, federal government help with procurement and scaling).
- 	3. Strong risk communication strategy to persuade the public to get vaccinated.
+	3. Strong risk communication strategy to persuade the public to get vaccinated.
 
 # (Attempt) at a causal diagram of war initiation & what it suggests for prevention
 
@@ -109,7 +109,7 @@ Necessary conditions for prevention:
 	* **Prevention & protective elements:** 
 		* **Checks and balances**: This constraint may be an equivalent of mass vaccination in public health - highly effective, but hinges on robust institutions and political will. As recent descent into authoritarianism in Hungary, Turkey, and the US shows, democratic institutions are vulnerable to hostile takeovers. This is a real issue, especially if these hostile takeovers are by individuals with personal traits like pathological narcissism, high risk tolerance, and dominance - linked to violence and war.
 		* **Interdependence** - the world economy is pretty interconnected, with very few regime exceptions
-		* Among the most effective upstream preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling what seem like life-changing programs? 
+		* One the most effective preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling what seem like life-changing programs? 
 		* **Social-emotional learning (SEL)** is not in the book, but I raised it as a possibility, since it teaches emotional regulation and conflict resolution early in educational settings.
 	* **Public trust in institutions** - ?
 	* **Capacity** - ?
