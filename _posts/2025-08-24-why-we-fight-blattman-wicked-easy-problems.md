@@ -98,7 +98,7 @@ Below is my best guess based on the book, plus some things I added. Note that it
 *Methods notes: this is based on an extremely simplified motivation framework from psychology. Not meant to be a directed acyclical graph (DAG)! Arrow-on-arrow illustrates an effect modifier, per Figure 2 of [Weinberg](https://pmc.ncbi.nlm.nih.gov/articles/PMC2235194/)
 (i.e. vaccine is an effect modifer, in that it only has an effect on an outcome like severe disease when there's virus exposure).*
  
-Necessary conditions for prevention:
+**Necessary conditions for prevention**:
 * **Science:** The diagram suggests multiple intervention points to prevent war by addressing the 5 mechanisms - and that's already actionable. However, the five causes aren’t a unifying framework: they represent the bargaining model (our closest thing to one) plus psychological factors not yet fully integrated.[^4]  Also, most of the protective factors (checks and balances, enforcement, interdependence) appear to be downstream of motive and the multi-level factors shape it. There are opportunities for theoretical development.
 * **Procedures for early detection ->  response**: Needs more development. Although the book critiques some approaches as misguided, it also highlights growing empirical evidence for what works.
 * **Global response authority** empowered to lead the implementation of above procedures: anarchy problem means we don't have global government. The UN was formed after WWII as a successor to the League of Nations with peacekeeping and enforcement power, but among its limitations is veto power by any of the 5 permanent Security Council members. Will it take another global conflict to improve it? Meanwhile, alliances like NATO, African Union / ECOWAS attempt some of this at a regional level but aren't there (diagnosis, capacity, response).
@@ -111,7 +111,7 @@ Necessary conditions for prevention:
 * **Social-emotional learning (SEL)** is not in the book, but I raised it as a possibility in the diagram since it teaches emotional regulation and conflict resolution early in educational settings.
 * **Risk communication and information sharing** - ?
 
-Sufficient conditions for prevention:
+**Sufficient conditions for prevention**:
 * **Solving coordination problems and timely, decisive action** - epic fail, or also an observational bias problem?
 
 [^4]: It's possible that the psychological factors are part of the expected benefits/payoffs of war calculation. But the expected benefits are often treated as a given and receive less attention. 
