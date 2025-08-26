@@ -50,7 +50,7 @@ This doesn't mean it was low effort.
 Instead, it means that there was a clear solution and an implementation playbook: vaccine technology existed, it needed to be scaled, and a massive population-level campaign had to be undertaken in a short time period. 
 Yes, the reality may have been more complicated, but the larger point stands. 
 
-[^7]: Two great articles to learn more: [Weinstein 1947](https://ajph.aphapublications.org/doi/10.2105/AJPH.37.11.1376) and [Sepkowitz 2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC3323221/?utm_source=chatgpt.com).
+[^7]: Two great articles to learn more: [Weinstein 1947](https://ajph.aphapublications.org/doi/10.2105/AJPH.37.11.1376) and [Sepkowitz 2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC3323221/).
 
 Given that epidemics were a wicked problem that ravaged populations for much of human history, how did we get to the point where they - or at least some of them - transformed into "easy" problems?[^5]
 
@@ -92,7 +92,7 @@ Some lessons from public health on transforming wicked problems into easy proble
 # (Attempt) at a causal diagram of war initiation & what it suggests for prevention
 
 One of the things I struggled to understand was where the 5 causes/mechanisms fall in the causal chain.
-The diagram below is my best guess based on the book, plus some things I added. Note that it's simplified and I'm not confident I got everything right (ChatGPT disagrees with me about commitment problems).
+The diagram below is my best guess based on the book, plus some things I added. I'm not confident I got everything right (ChatGPT disagrees with me about commitment problems, and I kind of get it).
 
 ![War-causes-diagram](/assets/images/war-causes-diagram-attempt.png)
 *Methods notes: this is based on an extremely simplified motivation framework from psychology. Not meant to be a directed acyclical graph (DAG)! Arrow-on-arrow illustrates an effect modifier, per Figure 2 of [Weinberg](https://pmc.ncbi.nlm.nih.gov/articles/PMC2235194/)
@@ -107,7 +107,7 @@ The diagram below is my best guess based on the book, plus some things I added. 
 **Other protective elements:** 
 * **Checks and balances**: This constraint may be an equivalent of mass vaccination in public health - highly effective, but hinges on robust institutions and political will. As recent descent into authoritarianism in Hungary, Turkey, and the US shows, democratic institutions are vulnerable to hostile takeovers. This is a real issue, especially if these hostile takeovers are by individuals with personal traits like narcissism, risk tolerance, and dominance - linked to violence and war.
 * **Interdependence** - the world economy is pretty interconnected, with very few regime exceptions. This makes war costly, but only if the initiators internalize those costs. I'm less familiar with social connectedness measures. However, political polarization has been growing in the US for decades (trends in other parts of the world are mixed).
-* One the most effective upstream preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling what seem like life-changing programs?
+* One of the most effective upstream preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling what seem like life-changing programs?
 * **Social-emotional learning (SEL)** is not in the book, but I raised it as a possibility in the diagram since it teaches emotional regulation and conflict resolution early in educational settings.
 * **Risk communication and information sharing** - ?
 
