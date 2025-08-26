@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Psychological assessments as a form of checks and balances"
+title: "Mental fitness assessments as a form of checks and balances"
 date: 2025-02-23
-tags: [political-science, international-relations, psychology, leadership]
+tags: []
 ---
 
 *They're performed for high-responsibility civilian and military roles - why not for heads of state?*
@@ -12,26 +12,26 @@ tags: [political-science, international-relations, psychology, leadership]
 Psychological assessments are routinely used in high-responsibility, high-stress civilian and military contexts such as aviation, nuclear safety, and national security to safeguard against harmful decision-making. This analysis explores the feasibility of using publicly available tools to develop psychological assessments of political leaders.
 The motivation is that such assessments can offer valuable insight into the likelihood of violence or harmful governance. 
 
-A gap in high quality information exists for a few reasons:
-- Existing assessments are often speculative accounts by political pundits
-- People who may be most suitable to offer informed opinions, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so
-- Evaluating vast amounts of data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years
+A gap in high quality information currently exists for a few reasons:
+- Existing assessments are often speculative accounts by those who are not qualified
+- Professionals who may be most qualified to offer informed opinions, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so
+- Evaluating vast amounts of public data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years
 
-To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-barrier starting point. Limitations and how to address them - such as more transparent methods of text analysis - are discussed in the final section.
+To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-barrier starting point. Limitations and how to address them - including methodological and ethical - are discussed in the final section.
 
 Briefly, the steps are:
 
 1. Develop a list of potential psychological characteristics and how to rate them
-2. Come up with a list of historical figures
+2. Create a list of historical figures
 3. Use Chat or another LLM to assess available information about each individual prior to office
 
 ### 1. Psychological characteristics
 
-A list of psychological characteristics was developed based on a literature review of available psychological assessments, including from fields like political psychology (e.g. Margaret Hermann) as well as public CIA analyses of world leaders (e.g. work by Jerrold Post and colleagues.) The final list for this analysis is meant to cast a fairly wide net and includes DSM-5 diagnose and features, and other factors established to predispose or correlate with destructive leadership.
+A list of psychological characteristics was developed based on a literature review and online search. The final list for this analysis is meant to cast a fairly wide net.
 
 **List of psychological characteristics:**
 
-1. Pathological narcissism (grandiosity, excessive need for admiration, inability to tolerate criticism)
+1. Narcissism (grandiosity, excessive need for admiration, inability to tolerate criticism)
 2. Paranoia
 3. Machiavellianism
 4. Sadism
@@ -140,16 +140,17 @@ The results reveal moderate-high relationship between pre-power psychological tr
 
 #### Ethical concerns
 - Psychological assessments may be weaponized to screen out individuals or groups who are viewed unfavorably. This is a real concern, which is why mechanisms of oversight must be developed if this is to be deployed ethically.
+- Many common mental health conditions such as depression are not linked to higher risk of violence. Care must be taken to minimize stigma. 
 - Even well-designed and validated models may still result in false positives some proportion of the time.  
 - The [2017 debate about the Goldwater Rule](https://www.npr.org/2017/05/15/528502969/psychiatrists-divided-over-the-goldwater-rule-in-the-age-of-trump), though limited to psychiatry, exposed divisions about the longstanding practice of discouraging professionals from attempting to diagnose or make statements about the mental fitness of presidential candidates.
 
-## Next steps
+## Future directions
 
 What to make of these limitations? Many can be overcome with a more systematic approach, including the development and validation of definitions, inclusion of more comprehensive list of world leaders, and adjusting for factors like governance system and time period. **Computational social science advancements**, including analysis of vast amounts of text, social media, and other online content - can be used for things like sentiment analysis and emotion detection, in order to [assess](https://direct.mit.edu/coli/article/50/1/237/118498/) relevant characteristics.
 
 Once a more rigorous, validated assessment is developed with reasonably high accuracy - what do we do with this information?
 
 - One option is to look to existing precedents where psychological evaluations are already used in civilian and military roles. This usually involves some action and enforcement, given the associated risks (e.g. defense and national security, operating critical infrastructure or nuclear... anything.)
-- At the minimum, it can be used as an early warning mechanism.
+- At the minimum, it can be used as an early warning signal.
 
-While this post focuses on the use of public information about candidates, some like Dr. Bandy Lee and colleages [cite risks to democracy](https://www.scientificamerican.com/article/the-shared-psychosis-of-donald-trump-and-his-loyalists/) and call for formal mental health assessments.
+While this post focuses on the use of public information about candidates, some like Dr. Bandy Lee and colleages [cite risks to democracy](https://www.scientificamerican.com/article/the-shared-psychosis-of-donald-trump-and-his-loyalists/) go further and advocate for formal mental fitness assessments.
