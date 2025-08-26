@@ -8,9 +8,9 @@ tags: [IR, public health]
 *Lessons from public health history*
 
 Blattman's Why We Fight is one of the most informative books I've read in years. 
-I deeply appreciate when social scientists engage in high quality science communication for the public. They have so much to offer, and it helps fill a void in an information environment with more trustworthy content.
+I appreciate when social scientists engage in high quality science communication for the public. They have so much to offer, and it helps fill a void in an information environment with more trustworthy content.
 
-A brief summary is provided below. I'm not going to go too much into [critiques and limitations](https://www.foreignaffairs.com/reviews/review-essay/2022-04-19/what-war-still-good) - many of which are valid. 
+A brief summary is provided below. I'm not going to go too much into [critiques](https://www.foreignaffairs.com/reviews/review-essay/2022-04-19/what-war-still-good) - many of which are valid. 
 Instead, this post will cover something that was thought-provoking to me. 
 In his recommendations for those who are interested in peace work, Blattman emphasizes that **we should not confuse easy problems - 
 which have clear solutions and a playbook for implementation - and wicked problems like war.**
@@ -23,19 +23,16 @@ The book begins by emphasizing that most conflicts are resolved peacefully, and 
 The argument is that we're less likely to observe successful conflict resolution (or bargaining in IR speak). 
 A similar observation bias may exist in many settings, ranging from national security to public health.
 
-With that said, the book's focus is to explain reasons for war and paths to peace. 
-The literature mainly draws from rationalist IR/conflict studies but also provides multidisciplinary perpectives from fields like psychology.
+With that said, the book's focus is to explain reasons for war, defined here as prolonged violence between two groups, and paths to peace.
 
-The **five reasons for wars** are presented as:
+The **five mechanisms for wars** are presented as:
 1. **Unchecked interests and power** - a leader or group with personal incentives for war, combined with lack of checks and balances and isolation from negative consequences
 2. **Uncertainty** - about the strength or resolve of an opponent and challenges with information-sharing
 3. **Commitment problems** - such as pre-emptive war and preventive war, motivated to avoid an undesirable outcome in the future; at least one side has concerns about another's future behavior. This is presented as an unresolved bargaining failure that leads to war, or as a hinderace to resolving wars, especially [civil wars](https://www.researchgate.net/publication/2533194_Why_do_Some_Civil_Wars_Last_so_Much_Longer_than_Others). 
 5. **Intangible incentives** - status, grievances, etc.
 6. **Misperceptions** - distorted views about probability of winning and other factors
 
-Why these categories? Because that's how they've been presented in the literature: 
-1-3 are classic **strategic** explanations (see Fearon 1995). 
-4 and 5 reflect increasing recognition in the field about the role of **psychological** factors. 
+Why these categories? Because that's how they've been presented in the literature. The book draws from rationalist IR/conflict studies but also adds multidisciplinary perpectives from fields like psychology.
 
 The **four paths to peace** are presented as:
 
@@ -48,10 +45,12 @@ There are some really interesting examples of success. In the US, one such examp
 
 # How do wicked problems become easy problems? Lessons from public health history
 
-The book brings up New York City's successful mass vaccination campaign against smallpox in 1947 as an example of an easy problem. 
+The book brings up New York City's successful mass vaccination campaign[^7] against smallpox in 1947 as an example of an easy problem. 
 This doesn't mean it was low effort. 
 Instead, it means that there was a clear solution and an implementation playbook: vaccine technology existed, it needed to be scaled, and a massive population-level campaign had to be undertaken in a short time period. 
 Yes, the reality may have been more complicated, but the larger point stands. 
+
+[^7]: Two great articles to learn more: [Weinstein 1947](https://ajph.aphapublications.org/doi/10.2105/AJPH.37.11.1376) and [Sepkowitz 2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC3323221/?utm_source=chatgpt.com).
 
 Given that epidemics were a wicked problem that ravaged populations for much of human history, how did we get to the point where they - or at least some of them - transformed into "easy" problems?[^5]
 
@@ -83,14 +82,15 @@ Some lessons from public health on transforming wicked problems into easy proble
 * **Necessary conditions** included:
 	* **Science and technology**: When the smallpox vaccine was first discovered, the mechanism of action was yet to be fully elucidated. It didn't stop it from being useful. However, understanding the causes, mechanisms, and safety may make it easier to build a strong case and have buy-in, both for public trust and in solving coordination problems.
 	* **Procedures for outbreak detection, investigation, and response**. Public health is full of blueprints ([CDC's Field Manual](https://www.cdc.gov/field-epi-manual/php/about/index.html) wasn't published until 1990s, but [APHA's Control of Communicable Diseases](https://www.apha.org/publications/published-books/ccdm) has been produced since 1917). Blattman warns against blueprints as a one-size-fits-all approach, and that's sensible. But in public health they're developed for different circumstances like mode of transmission. For multi-national outbreaks, understanding cultural context is part of the playbook.
-	* **Some degree of authority and independence** by the health department to lead the response, by implementing the procedures and solving coordination problems (note that it had no authority to *mandate* mass vaccination).
+	* **Some degree of authority and independence** by the health department to lead the response, by implementing the procedures and solving coordination problems (it did not *mandate* mass vaccination, but chose  ).
 	* **Other baseline conditions:** 
 		* **Preventive** element: a degree of existing protection because some people were previously vaccinated. 
 		* **State capacity**
 		* **Public trust in government**: High at baseline, but risk communication plays an important role. 
-* **Sufficient conditions:** two things that made a critical difference in 1947 were: 
+* **Sufficient conditions:** Several key things made a difference in 1947: 
 	1. Decisive action by the commissioner of health to launch a mass vaccination campaign
-	2. Solving coordination problems *in a timely way* - the health department led the coordination of government agencies and political institutions at different levels (city agencies, political institutions like city hall, federal government help with procurement and scaling). 
+	2. Solving coordination problems *in a timely way* - the health department led the coordination of government agencies and political institutions at different levels (city agencies, health care systems, federal government help with procurement and scaling).
+ 	3. Strong risk communication strategy to persuade the public to get vaccinated.
 
 # (Attempt) at a causal diagram of war initiation & what it suggests for prevention
 
@@ -123,7 +123,7 @@ Sufficient conditions for prevention:
 
 Almost every condition for war prevention seems insufficiently developed. This means there's need everywhere. However, some priorities stand out:
 * **The most successful, evidence-based *upstream* interventions for peace target our minds, and how we relate to others.** 
-* **Checks and balances are highly effective**, yet are particularly vulnerable to being eroded by those who are more likely to engage in violence. This presents opportunities for **upgrading or designing new generation of institutions and their interactions.**
+* **Checks and balances are highly effective**, yet are particularly vulnerable to being undermined by those who are more likely to engage in violence. This presents opportunities for **upgrading or designing new generation of institutions and their interactions.**
 * **Coordination problems** (and collective action?) - may be another Nobel-worthy question?
 
 
