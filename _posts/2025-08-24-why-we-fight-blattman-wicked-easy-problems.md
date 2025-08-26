@@ -92,7 +92,7 @@ Some lessons from public health on transforming wicked problems into easy proble
 # (Attempt) at a causal diagram of war initiation & what it suggests for prevention
 
 One of the things I struggled to understand was where the 5 causes/mechanisms fall in the causal chain.
-Below is my best guess based on the book, plus some things I added. Note that it's simplified and I'm not confident I got everything right (ChatGPT disagrees with me about commitment problems).
+The diagram below is my best guess based on the book, plus some things I added. Note that it's simplified and I'm not confident I got everything right (ChatGPT disagrees with me about commitment problems).
 
 ![War-causes-diagram](/assets/images/war-causes-diagram-attempt.png)
 *Methods notes: this is based on an extremely simplified motivation framework from psychology. Not meant to be a directed acyclical graph (DAG)! Arrow-on-arrow illustrates an effect modifier, per Figure 2 of [Weinberg](https://pmc.ncbi.nlm.nih.gov/articles/PMC2235194/)
