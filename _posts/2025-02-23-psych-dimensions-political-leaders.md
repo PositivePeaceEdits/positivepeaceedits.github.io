@@ -113,6 +113,8 @@ The results below were generated using ChatGPT in February 2025.
 <iframe title="Pre-Power Psychological Profiles of Global Leaders: Historical Figures, US Presidents, and Current World Leaders" aria-label="Table" id="datawrapper-chart-6SNwZ" src="https://datawrapper.dwcdn.net/6SNwZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1260" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
+https://datawrapper.dwcdn.net/6SNwZ/3/
+
 
 The results reveal moderate-high relationship between pre-power psychological traits and later conflict initiation, albeit with limitations.
 
@@ -153,4 +155,4 @@ Once a more rigorous, validated assessment is developed with reasonably high acc
 - One option is to look to existing precedents where psychological evaluations are already used in civilian and military roles. This usually involves some action and enforcement, given the associated risks (e.g. defense and national security, operating critical infrastructure or nuclear... anything.)
 - At the minimum, it can be used as an early warning signal.
 
-While this post focuses on the use of public information about candidates, some like Dr. Bandy Lee and colleages [cite risks to democracy](https://www.scientificamerican.com/article/the-shared-psychosis-of-donald-trump-and-his-loyalists/) go further and advocate for formal mental fitness assessments.
+While this post focuses on the use of public information about candidates, some like **Dr. Bandy Lee** and colleages go further and [advocate for formal mental fitness assessments](https://www.scientificamerican.com/article/the-shared-psychosis-of-donald-trump-and-his-loyalists/).
