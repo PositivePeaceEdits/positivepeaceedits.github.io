@@ -112,7 +112,7 @@ Necessary conditions for prevention:
 
 Sufficient conditions for prevention:
 * Risk communication and information sharing - ?
-* * **Solving coordination problems** & timely, decisive action - Epic fail, or also an observational bias problem?
+* **Solving coordination problems** and timely, decisive action - epic fail, or also an observational bias problem?
 
 
 [^4]: It's possible that the psychological factors are part of the expected benefits/payoffs of war calculation. But the expected benefits are often treated as a given and receive less attention. 
@@ -121,7 +121,7 @@ Sufficient conditions for prevention:
 
 Almost every condition for war prevention seems insufficiently developed. This means there's need everywhere. However, some priorities stand out:
 * **The most successful, evidence-based *upstream* interventions for peace target our minds, and how we relate to others.** 
-* **Checks and balances are highly effective**, yet are particularly vulnerable to being undermined by those who are more likely to engage in violence. This presents opportunities for **upgrading or designing new generation of institutions and their interactions.**
+* **Checks and balances are highly effective**, yet are vulnerable to being undermined by those who are more likely to engage in violence. This presents opportunities for upgrading or designing new generation of institutions and their interactions.
 * **Coordination problems** (and collective action?) - may be another Nobel-worthy question?
 
 
