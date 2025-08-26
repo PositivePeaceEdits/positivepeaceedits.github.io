@@ -85,7 +85,7 @@ Some lessons from public health on transforming wicked problems into easy proble
 	* **Authority and independence** of the health department to lead the response — implementing procedures and multi-level coordination, even though it lacked the power to *mandate* universal vaccination.
 	* **Other baseline conditions:** 
 		* **State capacity**
-		* **Public trust in government**: High at baseline, but risk communication plays an important role. 
+		* **Public trust in government**
 * **Sufficient conditions:** Several key things made a difference in 1947:
 	1. Decisive action by the commissioner of health to launch a mass vaccination campaign
 	2. Solving coordination problems *in a timely way* - the health department led the coordination of government agencies and political institutions at different levels (city agencies, health care systems, federal government help with procurement and scaling).
