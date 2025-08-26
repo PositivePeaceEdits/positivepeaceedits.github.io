@@ -28,7 +28,9 @@ Thanks for dropping by!
 
 ## Contact
 
-You can get in touch with me at PositivePeaceEdits at proton dot me
+You can get in touch with me at PositivePeaceEdits [at] proton [dot] me
+
+I'm also here: @positivepeaceedits.bsky.social
 
 
 
