@@ -2,7 +2,7 @@
 layout: post
 title: "Brief note: imposing costs on compliance"
 date: 2025-06-28
-tags: []
+tags: [coordination-problems, collective-action]
 ---
 
 *Higher education in the US is in a difficult moment, but one effective path to preserve its mission is actually clear* 
