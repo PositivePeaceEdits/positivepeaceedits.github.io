@@ -5,17 +5,17 @@ date: 2025-02-23
 tags: []
 ---
 
-*They're performed for high-responsibility civilian and military roles - why not for heads of state?*
+*They're performed for high-responsibility civilian and military roles - why not for potential political leaders?*
 
-## A starting point for assessment
+# A starting point for assessment
 
-Psychological assessments are routinely used in high-responsibility, high-stress civilian and military contexts such as aviation, nuclear safety, and national security to safeguard against harmful decision-making. This analysis explores the feasibility of using publicly available tools to develop psychological assessments of political leaders.
-The motivation is that such assessments can offer valuable insight into the likelihood of violence or harmful governance. 
+Psychological assessments are routinely used in high-responsibility, high-stress civilian and military contexts such as aviation, nuclear safety, and national security. This post explores the feasibility of using publicly available tools to develop psychological assessments of potential political leaders.
+The motivation is that these assessments may potentially provide valuable insights into the likelihood of future violence or harmful governance by individuals who have the power to deploy violence at mass scale.
 
-A gap in high quality information currently exists for a few reasons:
-- Existing assessments are often speculative accounts by those who are not qualified
-- Professionals who may be most qualified to offer informed opinions, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so
-- Evaluating vast amounts of public data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years
+The problems with the current information environment include both asymmetries and uncertainty:
+- Existing assessments are often speculative accounts done by people who may be less qualified to offer them, and/or those with distorted incentives.
+- Professionals who may be most qualified to offer assessments, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so.
+- Evaluating vast amounts of public data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years.
 
 To overcome these barriers, this analysis uses ChatGPT as an exploratory, low-barrier starting point. Limitations and how to address them - including methodological and ethical - are discussed in the final section.
 
@@ -25,7 +25,7 @@ Briefly, the steps are:
 2. Create a list of historical figures
 3. Use Chat or another LLM to assess available information about each individual prior to office
 
-### 1. Psychological characteristics
+## 1. Psychological characteristics
 
 A list of psychological characteristics was developed based on a literature review and online search. The final list for this analysis is meant to cast a fairly wide net.
 
@@ -48,7 +48,7 @@ A list of psychological characteristics was developed based on a literature revi
 
 Each characteristic is rated from 1 to 5. A higher total score indicates higher risk.
 
-### 2. Historical figures and modern leaders
+## 2. Historical figures and modern leaders
 
 The list of 40 global leaders below was chosen to include all US presidents since World War II and select historical and modern leaders. While it has representation from different geographic regions, in its current form, the list is skewed toward the west and toward a more recent time period.
 
@@ -95,7 +95,7 @@ The list of 40 global leaders below was chosen to include all US presidents sinc
 - Xi Jinping
 - Volodymyr Zelenskyy
 
-### 3. AI tools for text analysis
+## 3. LLM tools for text analysis
 
 An example prompt can look like the following:
 
@@ -108,12 +108,12 @@ An example prompt can look like the following:
 
 The results below were generated using ChatGPT in February 2025.
 
-## Results
+# Results
 
 <iframe title="Pre-Power Psychological Profiles of Global Leaders: Historical Figures, US Presidents, and Current World Leaders" aria-label="Table" id="datawrapper-chart-6SNwZ" src="https://datawrapper.dwcdn.net/6SNwZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1260" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
-https://datawrapper.dwcdn.net/6SNwZ/3/
+*Note: If the table above doesn't show up, use this link:* [https://www.datawrapper.de/_/6SNwZ/](https://www.datawrapper.de/_/6SNwZ/)
 
 
 The results reveal moderate-high relationship between pre-power psychological traits and later conflict initiation, albeit with limitations.
@@ -126,27 +126,27 @@ The results reveal moderate-high relationship between pre-power psychological tr
 
 - **False negatives** such as Bashar al-Assad, who did not score very highly but went on to commit devastating violence in Syria - suggest limitations in the model's usefulness to predict behavior once in power.
 
-## Limitations
+# Limitations
 
-#### Replication
+### Replication
 - LLM generated results are opaque, in that it's unclear how AI tools define and rate psychological traits, even when some instruction is provided. Additionally, LLMs get updated and retrained over time. This affects stability and replication of results. 
 - Conflict definition: results may not distinguish between initiating unprovoked conflict vs. what some view as motivated by defensive/security concerns.
 
-#### Availability of information
+### Availability of information
 - There is variation in available information. Older records may be limited to journalistic accounts and speeches, while recent information can draw on a wealth of online information and analysis.
 - Available information is limited to observable behavior, including a person's history, their professional activities, and public statements. It is not a clinical diagnosis.
 
-#### Prediction
+### Prediction
 - If the purpose of a psychological assessment is not just to evaluate, but also to act on the information by screening out potential harm - then false negatives (e.g. Assad) remain problematic.
 - The list of psychological traits is a bucket of items with some empirical basis, but this is something that would need iterative refinement and testing of predictive value.
 
-#### Ethical concerns
+### Ethical concerns
 - Psychological assessments may be weaponized to screen out individuals or groups who are viewed unfavorably. This is a real concern, which is why mechanisms of oversight must be developed if this is to be deployed ethically.
 - Many common mental health conditions such as depression are not linked to higher risk of violence. Care must be taken to minimize stigma. 
 - Even well-designed and validated models may still result in false positives some proportion of the time.  
 - The [2017 debate about the Goldwater Rule](https://www.npr.org/2017/05/15/528502969/psychiatrists-divided-over-the-goldwater-rule-in-the-age-of-trump), though limited to psychiatry, exposed divisions about the longstanding practice of discouraging professionals from attempting to diagnose or make statements about the mental fitness of presidential candidates.
 
-## Future directions
+# Future directions
 
 What to make of these limitations? Many can be overcome with a more systematic approach, including the development and validation of definitions, inclusion of more comprehensive list of world leaders, and adjusting for factors like governance system and time period. **Computational social science advancements**, including analysis of vast amounts of text, social media, and other online content - can be used for things like sentiment analysis and emotion detection, in order to [assess](https://direct.mit.edu/coli/article/50/1/237/118498/) relevant characteristics.
 
