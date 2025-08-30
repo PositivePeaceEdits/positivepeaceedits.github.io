@@ -12,7 +12,7 @@ tags: []
 Psychological assessments are routinely used in high-responsibility, high-stress civilian and military contexts such as aviation, nuclear safety, and national security. This post explores the feasibility of using publicly available tools to develop psychological assessments of potential political leaders.
 The motivation is that these assessments may provide insight into the likelihood of harmful governance by people with power to deploy violence at mass scale.
 
-The problems with the current information environment include both asymmetries and uncertainty:
+The problems with the current information environment include uncertainty and asymmetries:
 - Existing assessments are often speculative accounts done by people who may be less qualified to offer them, and/or those with distorted incentives.
 - Professionals who may be most qualified to offer assessments, such as psychiatrists or other mental health professionals, are prohibited or discouraged from doing so.
 - Evaluating vast amounts of public data, including speeches, articles, historical accounts, and other media, requires both data processing and analysis that was challenging until recent years.
