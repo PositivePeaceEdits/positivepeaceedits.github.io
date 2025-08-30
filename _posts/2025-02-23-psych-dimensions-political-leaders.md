@@ -10,7 +10,7 @@ tags: []
 # A starting point for assessment
 
 Psychological assessments are routinely used in high-responsibility, high-stress civilian and military contexts such as aviation, nuclear safety, and national security. This post explores the feasibility of using publicly available tools to develop psychological assessments of potential political leaders.
-The motivation is that these assessments may potentially provide valuable insights into the likelihood of future violence or harmful governance by individuals who have the power to deploy violence at mass scale.
+The motivation is that these assessments may potentially provide valuable insights into the likelihood of harmful governance by individuals who have the power to deploy violence at mass scale.
 
 The problems with the current information environment include both asymmetries and uncertainty:
 - Existing assessments are often speculative accounts done by people who may be less qualified to offer them, and/or those with distorted incentives.
@@ -113,7 +113,8 @@ The results below were generated using ChatGPT in February 2025.
 <iframe title="Pre-Power Psychological Profiles of Global Leaders: Historical Figures, US Presidents, and Current World Leaders" aria-label="Table" id="datawrapper-chart-6SNwZ" src="https://datawrapper.dwcdn.net/6SNwZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1260" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
-*Note: If the table above doesn't show up, use this link:* [https://www.datawrapper.de/_/6SNwZ/](https://www.datawrapper.de/_/6SNwZ/)
+*Note: If the table above doesn't show up, use this link:* 
+[https://www.datawrapper.de/_/6SNwZ/](https://www.datawrapper.de/_/6SNwZ/)
 
 
 The results reveal moderate-high relationship between pre-power psychological traits and later conflict initiation, albeit with limitations.
