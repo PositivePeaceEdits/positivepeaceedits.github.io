@@ -45,7 +45,7 @@ There are some really interesting examples of success. In the US, one such examp
 
 # How do wicked problems become easy problems? Lessons from public health history
 
-The book brings up New York City's successful mass vaccination campaign[^7] against smallpox in 1947 as an example of an easy problem. 
+The book cites New York City's successful campaign[^7] in 1947 to vaccinate millions against smallpox following an outbreak as an example of an easy problem. 
 This doesn't mean it was low effort. 
 Instead, it means that there was a clear solution and an implementation playbook: vaccine technology existed, it needed to be scaled, and a massive population-level campaign had to be undertaken in a short time period. 
 Yes, the reality may have been more complicated, but the larger point stands. 
@@ -81,7 +81,7 @@ Some lessons from public health on transforming wicked problems into easy proble
 * **Outbreaks, like [war](https://pages.ucsd.edu/~egartzke/publications/gartzke_io_99.pdf), are hard to predict in advance, but there is often a window of time during which they can be contained**. 
 * **Necessary conditions** included:
 	* **Science and technology**: When the smallpox vaccine was first discovered, the mechanism of action was yet to be fully elucidated. It didn't stop it from being useful. However, understanding the causes, mechanisms, and safety may make it easier to build a strong case and have buy-in, both for public trust and in solving coordination problems.
-	* **Procedures for outbreak detection, investigation, and response**. Public health is full of blueprints ([CDC's Field Manual](https://www.cdc.gov/field-epi-manual/php/about/index.html) wasn't published until 1990s, but [APHA's Control of Communicable Diseases](https://www.apha.org/publications/published-books/ccdm) has been produced since 1917). Blattman warns against blueprints as a one-size-fits-all approach, and that's sensible. But in public health they're developed for different circumstances like mode of transmission. For multi-national outbreaks, understanding cultural context is part of the playbook.
+	* **Procedures for outbreak detection, investigation, and response**. Public health is full of blueprints ([CDC's Field Manual](https://www.cdc.gov/field-epi-manual/php/about/index.html) wasn't published until 1990s, but APHA's Control of Communicable Diseases has been [produced since 1917](https://www.apha.org/getcontentasset/b8e5b607-5b0a-40fb-8f44-72b9767c05b6/7ca0dc9d-611d-46e2-9fd3-26a4c03ddcbb/apha2022_history_installation.pdf). Blattman warns against blueprints as a one-size-fits-all approach, and that's sensible. But in public health they're developed for different circumstances like mode of transmission. Later guidance incorporated cultural understanding and recognition of context.
 	* **Authority and independence** of the health department to lead the response - including implementation of the procedures, even though it lacked the power to *mandate* universal vaccination
 	* **State capacity:** health department, other city services, and federal government support (including the US Public Health Service and the military for rapid vaccine procurement)
 * **Sufficient conditions:** Several key things made a difference in 1947:
@@ -105,7 +105,7 @@ The diagram below is my best guess based on the book, plus some things I added. 
 * **Capacity** - ?
 
 **Other protective elements:** 
-* **Checks and balances**: This constraint may be an equivalent of mass vaccination in public health - highly effective, but hinges on robust institutions and political will. As recent descent into authoritarianism in Hungary, Turkey, and the US shows, democratic institutions are vulnerable to hostile takeovers. This is a real issue, especially if these hostile takeovers are by individuals with personal traits like narcissism, risk tolerance, and dominance - linked to violence and war.
+* **Checks and balances**: This constraint may be analogous to mass vaccination in public health - highly effective, but hinges on robust institutions and political will. As recent descent into authoritarianism in Hungary, Turkey, and the US shows, democratic institutions are vulnerable to hostile takeovers. This is a real issue, especially if this is done by individuals with personal traits like narcissism, risk tolerance, and drive for dominance - linked to violence and war.
 * **Interdependence** - the world economy is pretty interconnected, with very few regime exceptions. This makes war costly, but only if the initiators internalize those costs. I'm less familiar with social connectedness measures. However, political polarization has been growing in the US for decades (trends in other parts of the world are mixed).
 * One of the most effective upstream preventive factors discussed in the book is **cognitive behavioral therapy for men.** This is worth a lot of reflection. What the barriers to scaling what seem like life-changing programs?
 * **Social-emotional learning (SEL)** is not in the book, but I raised it as a possibility in the diagram since it teaches emotional regulation and conflict resolution early in educational settings.
@@ -121,7 +121,9 @@ The diagram below is my best guess based on the book, plus some things I added. 
 Almost every condition for war prevention seems insufficiently developed. This means there's need everywhere. However, some priorities stand out:
 * **The most successful, evidence-based *upstream* interventions for peace target our minds, and how we relate to others.** 
 * **Checks and balances are highly effective**, yet are vulnerable to being undermined by those who are more likely to engage in violence. This presents opportunities for upgrading or designing new generation of institutions and their interactions.
-* **Coordination problems** (and collective action?) - may be another Nobel-worthy question?
+* **Coordination problems** (and collective action?) - may be worth multiple Nobels?
+
+The success of the above rests on a foundation that includes security and state capacity, underscoring both the hierarchy of needs and the feedback loops that can either reinforce peace or entrench cycles of violence. 
 
 
 
