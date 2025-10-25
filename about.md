@@ -12,7 +12,7 @@ We also continue to struggle prevent and disrupt violence, including direct phys
 
 Finally, current efforts often center around putting out the most visible and urgent fires, which is understandable. Yet there is less investment in prevention of future outbreaks of violence and promotion of peace and well-being. Some existing efforts may have good intentions but are not necessarily well-informed or well-implemented.
 
-I started this blog as an exploration to fill some of the knowledge gaps above for myself. Namely around violence causes, treatment, and prevention, as well as promotion of sustainable peace and well-being. The content here presents summaries and analysis of existing knowledge, as well as discussion of what's missing. It draws from multi-disciplinary academic sources. While not perfect, these sources have undergone some degree of vetting. Perspectives outside of traditional or well-established sources may also presented when they have some insight to offer. I try to be transparent about their strengths and limitations to the best of my understanding.
+I started this blog as an exploration to fill some of the knowledge gaps above for myself. Namely around violence definitions, causes, treatments, and prevention, as well as promotion of sustainable peace and well-being. The content here presents summaries and analysis of existing knowledge, as well as discussion of what's missing. It draws from multi-disciplinary academic sources. While not perfect, these sources have undergone some degree of vetting. Perspectives outside of traditional or well-established sources may also presented when they have some insight to offer. I try to be transparent about their strengths and limitations to the best of my understanding.
 
 **About me:**
 
