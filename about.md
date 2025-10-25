@@ -19,12 +19,12 @@ I started this blog as an exploration to fill some of the knowledge gaps above f
 My background is in social science and I occasionally do research that touches on some forms of structural violence and how to address them. The writing presented here is done in my spare time to find out what I know.
 
 You can get in touch with me here:
-
 PositivePeaceEdits [at] proton [dot] me
 
 Bluesky: @positivepeaceedits.bsky.social
 
 Thanks for dropping by!
+
 
 
 
