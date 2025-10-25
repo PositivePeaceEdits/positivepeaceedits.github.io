@@ -4,41 +4,27 @@ title: "About"
 permalink: /about/
 ---
 
-The expression "positive peace" was popularized by sociologist Johan Galtung, though others including Martin Luther King Jr. and late 19th and early 20th century pacifists like Jane Addams and Alfred Fried used it in their writings prior to him. The term describes the presence of conditions that sustain peaceful societies and extends beyond the negative definition of peace as the absence of hostilities.
+The expression “positive peace” was popularized by sociologist Johan Galtung, though others including Martin Luther King Jr. and Jane Addams used it in their writings prior to him. Positive peace includes absence of war but extends beyond the negative definition. The term can encompass different things, but often includes social systems that eliminate structural violence and promote harmony, cooperation, justice, and sustainable well-being.
 
-First, a broad way to classify stages of conflict. Some stages may overlap and are not necessarily  linear in their progression:
+What is this blog about? Violence, most saliently in the form of war, is very much still with us. Despite efforts to understand it, spanning from ancient writings to modern day social science, we lack useful, unifying, widely accepted theories for diagnosing its causes. This may be less of an information problem. Instead, what's missing may be synthesis of existing knowledge and theoretical development. 
 
-0. Before outbreak of hostilities
-1. During conflict (usually interstate wars or civil wars, but not always)
-2. After conflict (stabilization, transition)
-3. Maintenance & prevention of new conflict
-4. Sustaining and cultivation of positive peace
+We also continue to struggle prevent and disrupt violence, including direct physical violence and structural violence. Part of the problem may be lack of a clear diagnosis about why different actors engage in actions that result in harm. In academic social science, efforts by bright, motivated scholars are often devoted to rigorously describing problems, without necessarily contributing to cumulative knowledge or theoretical development. Additionally, there are fewer efforts to translate existing body of knowledge into evidence-based recommendations and problem-solving (see [here](https://www.ssrc.org/events/political-science-as-problem-solving/) for an excellent discussion from one political scientist's perspective). 
 
-Most modern research related to peace is heavily concentrated on explaining conditions that lead to conflict and stages 1-3. The more upstream you go, the less attention is generally devoted to it. 
+Finally, current efforts often center around putting out the most visible and urgent fires, which is understandable. Yet there is less investment in prevention of future outbreaks of violence and promotion of peace and well-being. Some existing efforts may have good intentions but are not necessarily well-informed or well-implemented.
 
-The aims of this little blog are to:
+I started this blog as an exploration to fill some of the knowledge gaps above for myself. Namely around violence causes, treatment, and prevention, as well as promotion of sustainable peace and well-being. The content here presents summaries and analysis of existing knowledge, as well as discussion of what's missing. It draws from multi-disciplinary academic sources. While not perfect, these sources have undergone some degree of vetting. Perspectives outside of traditional or well-established sources may also presented when they have some insight to offer. I try to be transparent about their strengths and limitations to the best of my understanding.
 
-- Explore causes of conflict and to devote attention to the upstream contributors
-- Articulate conditions for sustainable peace and well-being
-- Present multidisciplinary perspectives on conflict and peace, including but not limited to insights from social science.
+**About me:**
 
-About me: My background is in social science. I do research in a different field. The writing presented here represents topics that pique my interest. Writing is also a way to find out what I know.
+My background is in social science and I occasionally do research that touches on some forms of structural violence and how to address them. The writing presented here is done in my spare time to find out what I know.
+
+You can get in touch with me here:
+
+PositivePeaceEdits [at] proton [dot] me
+
+Bluesky: @positivepeaceedits.bsky.social
 
 Thanks for dropping by!
-
-## Contact
-
-You can get in touch with me at PositivePeaceEdits [at] proton [dot] me
-
-I'm also here: @positivepeaceedits.bsky.social
-
-
-
-
-
-
-
-
 
 
 
